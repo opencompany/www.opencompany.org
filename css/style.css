@@ -388,11 +388,11 @@ h1, h2, h3, h4, h5, h6{
 	margin-bottom: 0px;
 }
 
-.service{
-	padding: 15px;
-	border: 1px solid #222;
-	border-right: 3px solid #555;
-	border-bottom: 3px solid #555;
+.content{
+	padding-right:10% ;
+	padding-left: 10%;
+	padding-top: 20px;
+	padding-bottom: 220px;
 	max-height: 132px;
 	overflow: hidden;
 	cursor: pointer;

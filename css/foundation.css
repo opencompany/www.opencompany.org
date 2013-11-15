@@ -2412,3 +2412,7 @@ label.error {
     left: -10px;
     top: 50%;
     margin-top: -5px; } }
+
+    .embiggen {
+    font-size: 1.5em;
+  }

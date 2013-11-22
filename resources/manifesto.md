@@ -21,8 +21,10 @@ As society scales, ...
 This manifesto is our attempt to address inadequacies in the way humans
 currently organize themselves to do work together. The problems are:
 
-Corporate anonymity encourages sociopathic behavior.  Work is plentiful, but
-jobs are scarce.
+ - Corporate anonymity encourages sociopathic behavior.
+
+ - Work is plentiful, but jobs are scarce.
+
 
 ## Three Principles
 

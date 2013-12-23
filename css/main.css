@@ -14,8 +14,8 @@ html, body { height: 100%; }
 
 body {
     font: 18pt Arial, sans-serif;
-    background: #F0D8A8;
-    color: #3D1C00;
+    background: #FFF;
+    color: #000;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -56,8 +56,8 @@ h2 {
 }
 
 .header {
-    background: #F0D8A8;
-    border-bottom: 6pt solid #86B8B1;
+    background: #FFF;
+    border-bottom: 6pt solid #000;
 }
 .page {
     margin: 24pt auto;
@@ -66,7 +66,7 @@ h2 {
     padding: 6pt 0;
 }
 .footer {
-    border-top: 6pt solid #86B8B1;
+    border-top: 6pt solid #000;
     font-size: 14pt;
     line-height: 14pt;
 }
@@ -79,8 +79,8 @@ h2 {
     font-weight: bold;
     padding: 6pt 12pt;
     display: inline-block;
-    color: #386761;
-    border: 3pt solid #F0D8A8;
+    color: #000;
+    border: 3pt solid #FFF;
     text-decoration: none;
 }
 .nav a:hover {

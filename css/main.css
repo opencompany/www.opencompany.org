@@ -13,14 +13,15 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
-  text-align: center;
+    font: 18pt Arial, sans-serif;
+    background: #F0D8A8;
+    color: #3D1C00;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+    font-size: 100%;
+    color: #FA2A00;
+}
 
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
@@ -29,6 +30,12 @@ a         { color: #00a; }
 a:hover   { color: #000; }
 a:visited { color: #a0a; }
 
+h2 {
+    font-size: 24pt;
+    line-height: 24pt;
+    margin: 24pt 0 12pt;
+}
+
 
 /*****************************************************************************/
 /*
@@ -36,6 +43,50 @@ a:visited { color: #a0a; }
 /*
 /*****************************************************************************/
 
+.site {
+}
+
+.header, .page, .footer {
+    width: 64pc;
+    margin: 0 auto;
+    clear: both;
+}
+.lefty {
+    float: left;
+}
+
+.header {
+    background: #F0D8A8;
+    border-bottom: 6pt solid #86B8B1;
+}
+.page {
+    margin: 24pt auto;
+}
+.footer .contact {
+    padding: 6pt 0;
+}
+.footer {
+    border-top: 6pt solid #86B8B1;
+    font-size: 14pt;
+    line-height: 14pt;
+}
+
+.nav {
+    text-align: right;
+    padding: 12pt 0;
+}
+.nav a {
+    font-weight: bold;
+    padding: 6pt 12pt;
+    display: inline-block;
+    color: #386761;
+    border: 3pt solid #F0D8A8;
+    text-decoration: none;
+}
+.nav a:hover {
+    color: #FA2A00;
+    border-color: #FA2A00;
+}
 
 
 /*****************************************************************************/
@@ -52,4 +103,5 @@ a:visited { color: #a0a; }
 /*
 /*****************************************************************************/
 
-
+.page {
+}

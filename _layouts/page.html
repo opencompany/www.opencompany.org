@@ -3,30 +3,34 @@ layout: default
 ---
 <div class="site">
     <div class="header">
-        <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+        <h1 class="title lefty"><a href="/"><img src="/img/oci.png" height="48" /></a></h1>
         <div class="nav">
-            <p>
-                <a href="/">Home</a>
-                <a href="/vision/">Vision</a>
-            </p>
+            <a href="/">Home</a>
+            <a href="/vision/">Vision</a>
+            <a href="/directory/">Directory</a>
+            <a href="/join/">How to Join</a>
+            <a href="/about/">About</a>
         </div>
     </div>
 
-    <h2>{{ page.title }}</h2>
+    <div class="page">
 
-    <div class="post">
+        <h2>{{ page.title }}</h2>
+
         {{ content }}
+
     </div>
 
     <div class="footer">
-        <div class="contact">
+        <div class="contact lefty">
             <p>&copy; 2013 The Open Company Initiative</p>
         </div>
         <div class="nav">
-            <p>
-                <a href="/">Home</a>
-                <a href="/vision/">Vision</a>
-            </p>
+            <a href="/">Home</a>
+            <a href="/vision/">Vision</a>
+            <a href="/directory/">Directory</a>
+            <a href="/join/">How to Join</a>
+            <a href="/about/">About</a>
         </div>
     </div>
 </div>

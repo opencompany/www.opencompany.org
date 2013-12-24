@@ -13,7 +13,7 @@
 html, body { height: 100%; }
 
 body {
-    font: 18pt Georgia, serif;
+    font: 20pt Georgia, serif;
     background: #FFF;
     color: #000;
 }
@@ -45,6 +45,7 @@ p {
     text-indent: 2em;
     margin: 0;
     padding: 0;
+    line-height: 150%;
 }
 
 ul, ol {

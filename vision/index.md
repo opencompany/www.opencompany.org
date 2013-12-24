@@ -5,3 +5,4 @@ title: Vision Statement
 
 We envision a world in which corporations are trusted because they are
 trustworthy.
+

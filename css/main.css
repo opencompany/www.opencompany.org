@@ -115,6 +115,9 @@ ul, ol {
     border: 3pt solid #FFF;
     text-decoration: none;
 }
+.nav a.current {
+    background: #EEE;
+}
 .nav a:hover {
     color: #FA2A00;
     border-color: #FA2A00;

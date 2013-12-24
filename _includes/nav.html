@@ -1,0 +1,12 @@
+<div class="nav">
+    <a {% if page.url == '/index.html' %}class="current"{% endif %}
+       href="/">Home</a>
+    <a {% if page.url contains '/vision/' %}class="current"{% endif %}
+       href="/vision/">Vision</a>
+    <a {% if page.url contains '/directory/' %}class="current"{% endif %}
+       href="/directory/">Directory</a>
+    <a {% if page.url contains '/join/' %}class="current"{% endif %}
+       href="/join/">How to Join</a>
+    <a {% if page.url contains '/about/' %}class="current"{% endif %}
+       href="/about/">About</a>
+</div>

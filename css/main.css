@@ -13,27 +13,43 @@
 html, body { height: 100%; }
 
 body {
-    font: 18pt Arial, sans-serif;
+    font: 18pt Georgia, serif;
     background: #FFF;
     color: #000;
 }
 
 h1, h2, h3, h4, h5, h6 {
+    font-family: "League Gothic";
+    font-weight: normal;
     font-size: 100%;
     color: #FA2A00;
 }
 
-h1 { margin-bottom: 1em; }
-p { margin: 1em 0; }
-
-a         { color: #00a; }
-a:hover   { color: #000; }
+a         { color: #FA2A00; }
+a:hover   { color: #FA2A00; }
 a:visited { color: #a0a; }
 
+h1 {
+    font-size: 48pt;
+    line-height: 48pt;
+    margin: 48pt 0 12pt;
+}
+
 h2 {
-    font-size: 24pt;
-    line-height: 24pt;
-    margin: 24pt 0 12pt;
+    font-size: 36pt;
+    line-height: 36pt;
+    margin: 0 0 12pt;
+}
+
+p {
+    text-indent: 2em;
+    margin: 0;
+    padding: 0;
+}
+
+ul, ol {
+    margin: 0;
+    padding: 1em 0 1em 2em;
 }
 
 
@@ -43,9 +59,6 @@ h2 {
 /*
 /*****************************************************************************/
 
-.site {
-}
-
 .header, .page, .footer {
     width: 64pc;
     margin: 0 auto;
@@ -54,19 +67,38 @@ h2 {
 .lefty {
     float: left;
 }
-
 .header {
     background: #FFF;
-    border-bottom: 6pt solid #000;
 }
-.page {
-    margin: 24pt auto;
+.header h1 {
+    margin: 0;
+}
+.header .title a {
+    display: inline-block;
+    font: 24pt normal "League Gothic";
+    text-decoration: none;
+    color: black;
+    padding-top: 9pt;
+}
+.header .title a img {
+    position: relative;
+    top: 9pt;
+}
+.header .title a span {
+}
+.header .title a:hover {
+    color: red;
+}
+.content {
+    border: 6pt solid #000;
+    border-style: solid none;
+    padding: 36pt 0;
+    clear: both;
 }
 .footer .contact {
     padding: 6pt 0;
 }
 .footer {
-    border-top: 6pt solid #000;
     font-size: 14pt;
     line-height: 14pt;
 }
@@ -74,9 +106,9 @@ h2 {
 .nav {
     text-align: right;
     padding: 12pt 0;
+    font: 24pt normal "League Gothic", sans-serif;
 }
 .nav a {
-    font-weight: bold;
     padding: 6pt 12pt;
     display: inline-block;
     color: #000;
@@ -99,9 +131,6 @@ h2 {
     text-align: center;
 }
 
-.home .nav {
-    text-align: center;
-}
 
 /*****************************************************************************/
 /*
@@ -110,4 +139,5 @@ h2 {
 /*****************************************************************************/
 
 .page {
+    margin: 24pt auto;
 }

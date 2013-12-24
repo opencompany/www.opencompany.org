@@ -22,12 +22,12 @@ h1, h2, h3, h4, h5, h6 {
     font-family: "League Gothic";
     font-weight: normal;
     font-size: 100%;
-    color: #FA2A00;
+    color: #339966;
 }
 
-a         { color: #FA2A00; }
-a:hover   { color: #FA2A00; }
-a:visited { color: #a0a; }
+a         { color: #339966; }
+a:hover   { color: #8CD6B1; }
+a:visited { color: #999966; }
 
 h1 {
     font-size: 48pt;

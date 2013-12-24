@@ -32,30 +32,41 @@ a:visited { color: #a0a; }
 h1 {
     font-size: 48pt;
     line-height: 48pt;
-    margin: 48pt 0 12pt;
+    margin: 48pt 0 18pt;
 }
 
 h2 {
     font-size: 36pt;
     line-height: 36pt;
-    margin: 0 0 12pt;
+    margin: 0 0 16pt;
+}
+
+h3 {
+    font-size: 30pt;
+    line-height: 30pt;
+    margin: 30pt 0 14pt;
 }
 
 p {
     text-indent: 2em;
-    margin: 0;
-    padding: 0;
     line-height: 150%;
+}
+
+blockquote {
+    line-height: 150%;
+    font-style: italic;
+    margin: 24pt 0;
 }
 
 ul, ol {
     margin: 0;
-    padding: 1em 0 1em 2em;
+    padding: 1em 0 1em 3.5em;
 }
 
 strong, b {
     color: #FA2A00;
     font-weight: normal;
+    font-style: italic;
 }
 
 
@@ -66,8 +77,9 @@ strong, b {
 /*****************************************************************************/
 
 .header, .page, .footer {
-    width: 64pc;
+    max-width: 64pc;
     margin: 0 auto;
+    padding: 0 2%;
     clear: both;
 }
 .lefty {
@@ -114,6 +126,9 @@ strong, b {
     padding: 12pt 0;
     font: 24pt normal "League Gothic", sans-serif;
 }
+.nav.left {
+    text-align: left;
+}
 .nav a {
     padding: 6pt 12pt;
     display: inline-block;
@@ -136,8 +151,12 @@ strong, b {
 /*
 /*****************************************************************************/
 
-.home {
+.homepage {
     text-align: center;
+    margin: 24pt auto;
+}
+.homepage .teaser {
+    line-height: 150%;
 }
 
 
@@ -151,6 +170,6 @@ strong, b {
     margin: 24pt auto;
 }
 .next-steps li {
-    float: left;
+    display: inline-block;
     list-style: none;
 }

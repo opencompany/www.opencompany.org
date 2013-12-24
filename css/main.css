@@ -53,6 +53,11 @@ ul, ol {
     padding: 1em 0 1em 2em;
 }
 
+strong, b {
+    color: #FA2A00;
+    font-weight: normal;
+}
+
 
 /*****************************************************************************/
 /*
@@ -88,7 +93,7 @@ ul, ol {
 .header .title a span {
 }
 .header .title a:hover {
-    color: red;
+    color: #FA2A00;
 }
 .content {
     border: 6pt solid #000;
@@ -144,4 +149,8 @@ ul, ol {
 
 .page {
     margin: 24pt auto;
+}
+.next-steps li {
+    float: left;
+    list-style: none;
 }

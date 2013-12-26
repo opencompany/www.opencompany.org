@@ -43,7 +43,7 @@ We invite innovation, and the sharing of both successes and failures. We trust
 the market and the court of public opinion to be our judge.
 
 The OCI holds an [annual summit](/summit/), bringing together our members to
-learn from one another and promote our vision.
+learn from one another and further our vision.
 
 The OCI is housed at [The Saxifrage School](http://www.saxifrageschool.org/), a
 higher education laboratory working to lower costs, re-think the campus, and

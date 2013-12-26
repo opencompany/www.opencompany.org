@@ -14,7 +14,7 @@ and the court of public opinion to be the final judge of corporate
 trustworthiness.
 
 The OCI is housed at [The Saxifrage School](http://www.saxifrageschool.org/), a
-higher education laboratory working to lower costs, re-think the campus and
+higher education laboratory working to lower costs, re-think the campus, and
 reconcile theory and practice. In addition to maintaining this website, the OCI
 holds an [annual summit](/summit/), apart from which we communicate primarily
 [using GitHub](https://github.com/opencompany/opencompany.github.io/issues).

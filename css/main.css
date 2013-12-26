@@ -78,7 +78,7 @@ strong, b {
 /*
 /*****************************************************************************/
 
-.header, .page, .footer {
+.header, .page, .homepage, .footer {
     max-width: 64pc;
     margin: 0 auto;
     padding: 0 2%;

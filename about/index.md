@@ -4,8 +4,10 @@ title: About the Initiative
 foo: bar
 ---
 
-The Open Company Initiative is a group of companies committed to proactively
-maximizing trust through genuine corporate transparency and openness.
+The Open Company Initiative (OCI) is a group of companies committed to
+proactively maximizing trust through genuine corporate transparency and
+openness, not as an afterthought, but as a defining element in how we create
+value.
 
 
 ### Our Vision
@@ -34,15 +36,13 @@ afterthought, but as a defining element in how we create value.
 
 ### Programs and Operations
 
-We maintain a [directory of companies](/directory/) that pledge to proactively
-maximize trust through genuine corporate transparency and openness. However,
-the OCI is specifically not a certifying body. Instead, we invite our members
-to define for themselves how they will fulfill our pledge. We invite
-innovation, and the sharing of both successes and failures. We trust the market
-and the court of public opinion to be the final judge of corporate
-trustworthiness.
+The OCI maintains a [directory of companies](/directory/) that have taken our
+pledge.  However, the OCI is specifically not a certifying body. Instead, we
+invite our members to define for themselves how they will fulfill their pledge.
+We invite innovation, and the sharing of both successes and failures. We trust
+the market and the court of public opinion to be our judge.
 
-We hold an [annual summit](/summit/), bringing together our members to
+The OCI holds an [annual summit](/summit/), bringing together our members to
 learn from one another and promote our vision.
 
 The OCI is housed at [The Saxifrage School](http://www.saxifrageschool.org/), a

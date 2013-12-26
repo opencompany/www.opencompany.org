@@ -30,9 +30,7 @@ with the following information:
 
 {% include pledge.md %}
 
-<div class="next-steps nav">
-    <ul>
-        <li><a href="/about/">About the Initiative</a></li>
-        <li><a href="/directory/">Directory of Member Companies</a></li>
-    </ul>
-</div>
+<ul class="next-steps nav">
+    <li><a href="/about/">About the Initiative</a></li>
+    <li><a href="/directory/">Directory of Member Companies</a></li>
+</ul>

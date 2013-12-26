@@ -5,10 +5,10 @@ title: Directory of Member Companies
 
 {% include pledge.md %}
 
-<div class="nav">
-    <a href="/about/">About the Initiative</a>
-    <a href="/join/">Join the Initiative</a>
-</div>
+<ul class="nav">
+    <li><a href="/about/">About the Initiative</a></li>
+    <li><a href="/join/">Join the Initiative</a></li>
+</ul>
 
 
 ### Member Companies

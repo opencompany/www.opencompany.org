@@ -64,7 +64,7 @@ ul, ol {
 }
 
 strong, b {
-    color: #FA2A00;
+    color: #339966;
     font-weight: normal;
     font-style: italic;
 }
@@ -105,7 +105,7 @@ strong, b {
 .header .title a span {
 }
 .header .title a:hover {
-    color: #FA2A00;
+    color: #339966;
 }
 .content {
     border: 6pt solid #000;
@@ -140,8 +140,8 @@ strong, b {
     background: #EEE;
 }
 .nav a:hover {
-    color: #FA2A00;
-    border-color: #FA2A00;
+    color: #339966;
+    border-color: #339966;
 }
 
 

@@ -32,6 +32,6 @@ with the following information:
 <div class="next-steps nav">
     <ul>
         <li><a href="/about/">About the Initiative</a></li>
-        <li><a href="/directory/">Directory of Companies</a></li>
+        <li><a href="/directory/">Directory of Member Companies</a></li>
     </ul>
 </div>

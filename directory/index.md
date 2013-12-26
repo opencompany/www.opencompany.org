@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Directory of Companies
+title: Directory of Member Companies
 ---
 
 We who belong to the Open Company Initiative pledge to proactively maximize

@@ -8,6 +8,7 @@ trust through genuine corporate transparency and openness, not as an
 afterthought, but as a defining element in how we create value.
 
 <div class="nav">
+    <a href="/about/">About the Initiative</a>
     <a href="/join/">Join the Initiative</a>
 </div>
 

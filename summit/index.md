@@ -5,8 +5,7 @@ title: Annual Summit
 
 The Open Company Summit takes place in March, and represents the best
 opportunity for the [members](/directory/) of the Open Company Initiative to
-learn from one another and to further the [mission](/about/) and
-[vision](/vision/) of the Initiative.
+learn from one another and to further the [vision](/about/) of the Initiative.
 
 ### 2014
 

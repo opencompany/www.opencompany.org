@@ -19,9 +19,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: "League Gothic";
-    font-weight: normal;
-    font-size: 100%;
+    font: normal 100% "League Gothic", sans-serif;
     color: #339966;
 }
 
@@ -97,7 +95,7 @@ strong, b {
 }
 .header .title a {
     display: inline-block;
-    font: 24pt normal "League Gothic";
+    font: normal 24pt "League Gothic", sans-serif;
     text-decoration: none;
     color: black;
     padding-top: 9pt;
@@ -128,7 +126,7 @@ strong, b {
 .nav {
     text-align: right;
     padding: 12pt 0;
-    font: 24pt normal "League Gothic", sans-serif;
+    font: normal 24pt "League Gothic", sans-serif;
 }
 .nav a {
     padding: 6pt 12pt;

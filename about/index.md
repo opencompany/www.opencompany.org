@@ -32,7 +32,7 @@ transparency and openness.
 ### Programs and Operations
 
 The OCI maintains a [directory of companies](/directory/) that have taken our
-pledge.  However, the OCI is intentionally not a certifying body. Instead, we
+pledge. However, the OCI is intentionally not a certifying body. Instead, we
 invite our members to define for themselves how they will fulfill their pledge.
 We invite innovation and the sharing of both successes and failures. We trust
 the market and the court of public opinion to be our judge.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About the Initiative
 ---
 
 The mission of the Open Company Initiative (OCI) is **to make corporate

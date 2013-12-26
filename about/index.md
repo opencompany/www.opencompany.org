@@ -10,11 +10,18 @@ maximizing trust through proactive openness as a defining value in our work.
 
 ### Our Vision
 
-Trust is the foundation of the economy. The legal requirements establish a minimum requirement of trustworthiness, and the status quo for companies is to do as little as they can. How much more
-productive would our economy be if instead we reached together for an upper
-bound of trust? If the economy were based more on actual value, not the abstraction of money?
+Trust is the foundation of the economy. The legal requirements establish a
+minimum requirement of trustworthiness, and the status quo for companies is to
+do as little as they can. How much more productive would our economy be if
+instead we reached together for an upper bound of trust? If the economy were
+based more on actual value, not the abstraction of money?
 
-We envision a world in which companies and customers are trusted, because they have proven they are trustworthy. The winning companies of the future will be those that proactively maximize trust, going above and beyond the letter of the law to cultivate relationships of trust with customers, stakeholders, and society as a whole. We believe that this trust is a result of genuine transparency and openness.
+We envision a world in which companies and customers are trusted, because they
+have proven they are trustworthy. The winning companies of the future will be
+those that proactively maximize trust, going above and beyond the letter of the
+law to cultivate relationships of trust with customers, stakeholders, and
+society as a whole. We believe that this trust is a result of genuine
+transparency and openness.
 
 
 ### Our Pledge

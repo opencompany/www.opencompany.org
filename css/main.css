@@ -69,6 +69,10 @@ strong, b {
     font-style: italic;
 }
 
+.clear {
+    clear: both;
+}
+
 
 /*****************************************************************************/
 /*
@@ -173,3 +177,56 @@ strong, b {
     display: inline-block;
     list-style: none;
 }
+
+
+/*****************************************************************************/
+/*
+/* Directory
+/*
+/*****************************************************************************/
+
+.directory {
+    margin: 0;
+    padding: 0;
+}
+.directory li {
+    list-style: none;
+    float: left;
+    width: 10pc;
+    margin-right: 2pc;
+    text-align: center;
+}
+.directory a {
+    display: block;
+    padding: 1pc;
+    color: #000;
+    text-decoration: none;
+    border: 3pt solid #FFF;
+}
+.directory a:hover {
+    border-color: #339966;
+}
+.directory a:hover .name {
+    color: #339966;
+}
+.directory .logo {
+    min-height: 8pc;
+    vertical-align: center;
+    position: relative;
+}
+.directory .logo img {
+    width: 100%;
+    /* http://coding.smashingmagazine.com/2013/08/09/absolute-horizontal-vertical-centering-css/ */
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.directory span {
+    display: block;
+}
+.directory .description {
+    font-style: italic;
+    font-size: 11pt;

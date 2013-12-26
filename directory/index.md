@@ -13,8 +13,14 @@ title: Directory of Member Companies
 
 ### Member Companies
 
-<ul>
-    <li><a href="https://www.balancedpayments.com/open">Balanced Payments</a></li>
-    <li><a href="https://www.gittip.com/">Gittip</a></li>
-    <li><a href="http://www.saxifrageschool.org/">The Saxifrage School</a></li>
+<ul class="directory">
+    {% for company in site.data.directory %}
+    <li><a href="{{ company.url }}">
+        <span class="logo"><img src="/img/logos/{{ company.logo }}" 
+            alt="{{ company.name }} logo"></span>
+        <span class="name">{{ company.name }}</span>
+        <span class="description">{{ company.description }}</span>
+    </a></li>
+    {% endfor %}
 </ul>
+<div class="clear"></div>

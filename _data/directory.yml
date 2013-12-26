@@ -1,0 +1,19 @@
+- name: Gittip
+  url: https://www.gittip.com/
+  description: Give money every week to people and teams you believe in.
+  join_date: 2013-12-20
+  logo: gittip.svg
+
+- name: Balanced Payments
+  url: https://www.balancedpayments.com/open
+  description: Payments for Marketplaces & Crowdfunding
+  join_date: 2013-12-20
+  logo: balanced.png
+
+- name: The Saxifrage School
+  url: http://www.saxifrageschool.org/
+  description: A higher ed. lab working to lower costs, re-think the campus, and reconcile theory 
+      with practice.
+  join_date: 2013-12-20
+  logo: saxifrage.png
+

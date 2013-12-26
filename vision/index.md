@@ -9,7 +9,7 @@ near this lower bound, getting away with what they can. How much more
 productive would our economy be if instead we reached together for an upper
 bound of trust?
 
-**We envision an economy in which corporations are trusted, because they are
+**We envision a world in which corporations are trusted, because they are
 trustworthy.** We believe that the winning companies of the future will be
 those that create trust, not merely doing the minimum possible to keep within
 the letter of the law, but going above and beyond to cultivate an ever-stronger

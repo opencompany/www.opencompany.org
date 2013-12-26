@@ -5,7 +5,9 @@ foo: bar
 ---
 
 The Open Company Initiative (OCI) is a group of companies committed to
-maximizing trust through proactive openness as a defining value in our work.
+proactively maximizing trust through genuine transparency and 
+openness, not as an afterthought, but as a defining element in how we create 
+value.
 
 
 ### Our Vision

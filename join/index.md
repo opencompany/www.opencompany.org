@@ -22,10 +22,14 @@ with the following information:
   1. The name of your company
   1. A link to your homepage, or a landing page about openness
   1. A one-sentence description of your company
-  1. One concrete example of how your company already fulfills our pledge,
-     &ldquo;to proactively maximize trust through genuine corporate 
-     transparency and openness, not as an afterthought, but as a defining 
-     element in how we create value.&rdquo;
+  1. One concrete example of how your company already fulfills our pledge.
+
+
+### Our Pledge
+
+We who belong to the Open Company Initiative pledge to proactively maximize
+trust through genuine corporate transparency and openness, not as an
+afterthought, but as a defining element in how we create value.
 
 <div class="next-steps nav">
     <ul>

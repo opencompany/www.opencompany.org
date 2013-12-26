@@ -91,20 +91,20 @@ strong, b {
     margin: 0;
     float: left;
 }
-.header .title a {
+.header h1 a {
     display: inline-block;
     font: normal 24pt "League Gothic", sans-serif;
     text-decoration: none;
     color: black;
     padding-top: 9pt;
 }
-.header .title a img {
+.header h1 a img {
     position: relative;
     top: 9pt;
 }
-.header .title a span {
+.header h1 a span {
 }
-.header .title a:hover {
+.header h1 a:hover {
     color: #339966;
 }
 .content {

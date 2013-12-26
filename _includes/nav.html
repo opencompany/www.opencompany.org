@@ -1,12 +1,12 @@
-<div class="nav">
-    <a {% if page.url == '/index.html' %}class="current"{% endif %}
-       href="/">Home</a>
-    <a {% if page.url contains '/about/' %}class="current"{% endif %}
-       href="/about/">About</a>
-    <a {% if page.url contains '/directory/' %}class="current"{% endif %}
-       href="/directory/">Directory</a>
-    <a {% if page.url contains '/summit/' %}class="current"{% endif %}
-       href="/summit/">Summit</a>
-    <a {% if page.url contains '/join/' %}class="current"{% endif %}
-       href="/join/">Join</a>
-</div>
+<ul class="nav">
+    <li><a {% if page.url == '/index.html' %}class="current"{% endif %}
+           href="/">Home</a></li>
+    <li><a {% if page.url contains '/about/' %}class="current"{% endif %}
+           href="/about/">About</a></li>
+    <li><a {% if page.url contains '/directory/' %}class="current"{% endif %}
+           href="/directory/">Directory</a></li>
+    <li><a {% if page.url contains '/summit/' %}class="current"{% endif %}
+           href="/summit/">Summit</a></li>
+    <li><a {% if page.url contains '/join/' %}class="current"{% endif %}
+           href="/join/">Join</a></li>
+</ul>

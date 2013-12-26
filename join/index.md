@@ -10,14 +10,24 @@ title: How to Join the Initiative
 
 </blockquote>
 
-To join the Open Company Initiative, please email [Tim
-Cook](mailto:tim@saxifrageschool.org) with the following information:
+If your company proactively creates trust through genuine transparency and
+openness, you are an open company, full stop. You don't need our permission to
+be open. That said, if you would like to join with like-minded companies in the
+Open Company Initiative, please email [Tim
+Cook](mailto:tim@saxifrageschool.org) (or submit a [pull
+request](https://github.com/opencompany/opencompany.github.io/blob/master/directory/index.html))
+with the following information:
 
   1. Your name and title
   1. The name of your company
-  1. A URL (your homepage, or a landing page about openness)
+  1. A link to your homepage, or a landing page about openness
   1. A one-sentence description of your company
-  1. A one-sentence description of a way in which your company proactively 
-     creates trust through transparency and openness
+  1. A description of one way in which your company proactively creates trust 
+     through transparency and openness
 
-If you are comfortable with programming, you may also submit a [pull request]().
+<div class="next-steps nav">
+    <ul>
+        <li><a href="/about/">About the Initiative</a></li>
+        <li><a href="/directory/">Directory of Companies</a></li>
+    </ul>
+</div>

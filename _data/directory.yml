@@ -17,3 +17,9 @@
   join_date: 2013-12-20
   logo: saxifrage.jpg
 
+- name: Sentry
+  url: https://www.getsentry.com/
+  description: "Modern error logging, open source and SaaS."
+  join_date: 2013-12-26
+  logo: sentry.svg
+

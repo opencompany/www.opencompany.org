@@ -6,7 +6,7 @@ title: How to Join the Initiative
 
     &ldquo;The world needs people who see something that needs to be done and
     start to do it, without permission or advice. They just start doing
-    it.&rdquo; — Wendell Berry
+    it.&rdquo; <span>&mdash; Wendell Berry</span>
 
 </blockquote>
 

@@ -55,6 +55,9 @@ blockquote {
     font-style: italic;
     margin: 24pt 0;
 }
+blockquote span {
+    font-style: normal;
+}
 
 ul, ol {
     margin: 0;

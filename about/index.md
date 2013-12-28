@@ -2,7 +2,6 @@
 layout: page
 title: About the Initiative
 foo: bar
-published: true
 ---
 
 The Open Company Initiative (OCI) is a group of companies committed to

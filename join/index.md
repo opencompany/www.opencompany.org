@@ -29,8 +29,3 @@ with the following information:
 ### Our Pledge
 
 {% include pledge.md %}
-
-<ul class="next-steps nav">
-    <li><a href="/about/">About the Initiative</a></li>
-    <li><a href="/directory/">Directory of Member Companies</a></li>
-</ul>

@@ -50,7 +50,7 @@ GitHub](https://github.com/opencompany/opencompany.github.io/issues).
 
 ### Funding
 
-Membership dues are pay what you want, <a
+The OCI is funded by pay-what-you-want membership dues, <a
 href="https://www.gittip.com/opencompanybiz/">via Gittip</a>.
 
 <div class="gittip-widget">

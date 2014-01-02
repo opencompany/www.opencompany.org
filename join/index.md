@@ -31,7 +31,7 @@ with the following information:
 {% include pledge.md %}
 
 
-### Funding
+### Dues
 
 Membership dues are pay what you want, <a
 href="https://www.gittip.com/opencompanybiz/">via Gittip</a>.

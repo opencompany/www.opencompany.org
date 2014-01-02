@@ -29,3 +29,13 @@ with the following information:
 ### Our Pledge
 
 {% include pledge.md %}
+
+
+### Funding
+
+Membership dues are pay what you want, <a
+href="https://www.gittip.com/opencompanybiz/">via Gittip</a>.
+
+<div class="gittip-widget">
+    <script data-gittip-username="opencompanybiz" src="//gttp.co/v1.js"></script>
+</div>

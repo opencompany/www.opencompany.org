@@ -49,6 +49,9 @@ p {
     text-indent: 2em;
     line-height: 150%;
 }
+.gittip-widget {
+    margin: 1em 2em;
+}
 
 blockquote {
     line-height: 150%;

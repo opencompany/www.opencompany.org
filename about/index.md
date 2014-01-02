@@ -48,6 +48,16 @@ primarily [using
 GitHub](https://github.com/opencompany/opencompany.github.io/issues).
 
 
+### Funding
+
+Membership dues are pay what you want, <a
+href="https://www.gittip.com/opencompanybiz/">via Gittip</a>.
+
+<div class="gittip-widget">
+    <script data-gittip-username="opencompanybiz" src="//gttp.co/v1.js"></script>
+</div>
+
+
 ### Further Reading
 
   - <a href="http://blog.gittip.com/post/26350459746/the-first-open-company">The First Open Company</a>

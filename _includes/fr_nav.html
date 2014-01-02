@@ -1,0 +1,12 @@
+<ul class="nav">
+    <li><a {% if page.url == '/fr_index.html' %}class="current"{% endif %}
+           href="/">Acceuil</a></li>
+    <li><a {% if page.url contains '/fr_about/' %}class="current"{% endif %}
+           href="/fr_about/">A propos</a></li>
+    <li><a {% if page.url contains '/fr_directory/' %}class="current"{% endif %}
+           href="/fr_directory/">Répertoire</a></li>
+    <li><a {% if page.url contains '/fr_summit/' %}class="current"{% endif %}
+           href="/fr_summit/">Congrès</a></li>
+    <li><a {% if page.url contains '/fr_join/' %}class="current"{% endif %}
+           href="/fr_join/">Adhérer</a></li>
+</ul>

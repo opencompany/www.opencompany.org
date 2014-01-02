@@ -46,6 +46,7 @@ reconcile theory and practice. The Initiative is funded [on
 Gittip](https://www.gittip.com/opencompanybiz), and we communicate
 primarily [using
 GitHub](https://github.com/opencompany/opencompany.github.io/issues).
+Some of us can be found on the initive's own IRC channel on freenode: #opencompanybiz
 
 
 ### Funding

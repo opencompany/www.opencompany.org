@@ -1,0 +1,14 @@
+pages:
+    home: "Home"
+    about: "About"
+    directory: "Directory"
+    summit: "Summit"
+    join: "Join"
+titles:
+    home: "Home"
+    about: "About the Initiative"
+    directory: "Directory of Member Companies"
+    summit: "Annual Summit"
+    join: "How to Join the Initiative"
+    notfound: "Not Found (404)"
+oci: "The Open Company Initiative"

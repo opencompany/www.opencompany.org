@@ -1,0 +1,14 @@
+pages:
+    home: "Acceuil"
+    about: "A propos"
+    directory: "Répertoire"
+    summit: "Congrès"
+    join: "Adhérer"
+titles:
+    home: "Acceuil"
+    about: "A propos de l'initiative"
+    directory: "Répertoire des entreprises libre"
+    summit: "Congrès annuel"
+    join: "Comment joindre l'initiative"
+    notfound: "Introuvable (404)"
+oci: "l'Initiative d'Entreprise Libre"

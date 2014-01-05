@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Directory of Member Companies
+title: titles.directory
 ---
 
-{% include pledge.md %}
+{% translate pledge %}
 
 
-### Member Companies
+### {% translate directory_header %}
 
 <ul class="directory">
     {% for company in site.data.directory %}

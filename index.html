@@ -1,21 +1,26 @@
 ---
 layout: default
-title: Home
+title: titles.home
 ---
 <div class="homepage">
     <img src="img/oci.svg" width="20%">
-    <h1>The Open Company Initiative</h1>
+    <h1>{% translate oci %}</h1>
 
     <div class="teaser">
 
 
-        Maximizing trust through genuine<br>
-        corporate transparency and openness
-
+     {% translate_file home/teaser.html %}
 
         <ul class="nav">
-            <li><a href="/about/">About the Initiative</a></li>
+            <li>
+            {% if site.lang == "en" %}
+              <a href="/about/">
+            {% else %}
+              <a href={{ site.lang|prepend:'"/'|append:'/about/"' }}>
+            {% endif %}
+	        {% translate titles.about %}
+              </a>
+	    </li>
         </ul>
-
     </div>
 </div>

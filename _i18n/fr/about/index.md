@@ -37,7 +37,8 @@ L'OCI est situé á [The Saxifrage School](http://www.saxifrageschool.org/), un 
 l'éducation supérieur cherchant à réduire les coûts, favoriser la transparence, repenser le campus et
 concilier la théorie et la pratique. L'initiative est financée [sur
 Gittip](https://www.gittip.com/on/twitter/employeveryone/), nous communiquons
-principalement [en utilisant github](https://github.com/opencompany/opencompany.github.io/issues).
+principalement [en utilisant github](https://github.com/opencompany/opencompany.github.io/issues).Certains d'entre nous se retrouvent sur le canal IRC de l'initiative sur le réseau freenode: #opencompanybiz.
+
 
 ### Financement
 

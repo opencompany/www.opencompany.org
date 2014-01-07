@@ -1,0 +1,16 @@
+pages:
+    home: "Acceuil"
+    about: "A propos"
+    directory: "Répertoire"
+    summit: "Congrès"
+    join: "Adhérer"
+titles:
+    home: "Acceuil"
+    about: "A propos de l'initiative"
+    directory: "Répertoire des entreprises libre"
+    summit: "Congrès annuel"
+    join: "Comment joindre l'initiative"
+    notfound: "Introuvable (404)"
+oci: "l'Initiative d'Entreprise Libre"
+pledge: "Celui qui adhere a l'Initiative d'Entreprise Libre s'engage a maximiser la transparence et l'ouverture opérationnelle comme un élément déterminant dans la façon de créer de la valeur."
+directory_header: "Entreprises adhérentes"

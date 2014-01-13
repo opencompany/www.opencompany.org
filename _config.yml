@@ -1,2 +1,3 @@
 markdown: redcarpet
 url: http://www.opencompany.biz/
+languages: ["en", "fr"]

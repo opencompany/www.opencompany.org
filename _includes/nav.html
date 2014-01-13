@@ -1,4 +1,5 @@
 <ul class="nav">
+{% if site.lang == "en" %}
     <li><a {% if page.url == '/index.html' %}class="current"{% endif %}
            href="/">Home</a></li>
     <li><a {% if page.url contains '/about/' %}class="current"{% endif %}
@@ -11,4 +12,28 @@
            href="/blog/">Blog</a></li>
     <li><a {% if page.url contains '/join/' %}class="current"{% endif %}
            href="/join/">Join</a></li>
+{% else %}
+    <li><a {% if page.url == '/index.html' %}class="current"{% endif %}
+           href={{ site.lang|prepend:'"/'|append:'/"'}}>{% translate pages.home %}</a></li>
+    <li><a {% if page.url contains '/about/' %}class="current"{% endif %}
+           href={{ site.lang|prepend:'"/'|append:'/about/"'}}>{% translate pages.about %}</a></li>
+    <li><a {% if page.url contains '/directory/' %}class="current"{% endif %}
+           href={{ site.lang|prepend:'"/'|append:'/directory/"'}}>{% translate pages.directory %}</a></li>
+    <li><a {% if page.url contains '/summit/' %}class="current"{% endif %}
+           href={{ site.lang|prepend:'"/'|append:'/summit/"'}}>{% translate pages.summit %}</a></li>
+    <li><a {% if page.url contains '/join/' %}class="current"{% endif %}
+           href={{ site.lang|prepend:'"/'|append:'/join/"'}}>{% translate pages.join %}</a></li>
+{% endif %}
+    <li>
+      <select ONCHANGE="location = this.options[this.selectedIndex].value;">
+        <option>Select a language</option>
+        {% for language in site.languages %}
+          {% if language == "en" %}
+	<option value="{{ site.baseurl_root }}">{{ language }}</option>
+	  {% else %}
+	<option value="/{{ language }}">{{ language }}</option>
+	  {% endif %}
+        {% endfor %}
+      </select>
+    </li>
 </ul>

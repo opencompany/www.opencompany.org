@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<div class="page">
+
+    <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+
+    <div class="blog">
+
+        <div class="meta">
+            {% if page.byline %}
+            <div class="byline">by: {{ page.byline }}</div>
+            {% endif %}
+            <div class="dateline">posted: {{ page.date | date_to_long_string }}
+            (<a href="{{ page.url }}">permalink</a>)
+            </div>
+            {% if page.updated %}
+            <div class="updated">updated: {{ page.updated | date_to_long_string }}</div>
+            {% endif %}
+        </div>
+
+        {{ content }}
+
+    </div>
+
+</div>

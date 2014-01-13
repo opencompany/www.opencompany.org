@@ -7,6 +7,8 @@
            href="/directory/">Directory</a></li>
     <li><a {% if page.url contains '/summit/' %}class="current"{% endif %}
            href="/summit/">Summit</a></li>
+    <li><a {% if page.url contains '/blog/' or page.url contains '/20' %}class="current"{% endif %}
+           href="/blog/">Blog</a></li>
     <li><a {% if page.url contains '/join/' %}class="current"{% endif %}
            href="/join/">Join</a></li>
 </ul>

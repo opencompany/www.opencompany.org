@@ -29,10 +29,10 @@
         <option>Select a language</option>
         {% for language in site.languages %}
           {% if language == "en" %}
-	<option value="{{ site.baseurl_root }}">{{ language }}</option>
-	  {% else %}
-	<option value="/{{ language }}">{{ language }}</option>
-	  {% endif %}
+    <option value="{{ site.baseurl_root }}">{{ language }}</option>
+      {% else %}
+    <option value="/{{ language }}">{{ language }}</option>
+      {% endif %}
         {% endfor %}
       </select>
     </li>

@@ -21,6 +21,8 @@
            href={{ site.lang|prepend:'"/'|append:'/directory/"'}}>{% translate pages.directory %}</a></li>
     <li><a {% if page.url contains '/summit/' %}class="current"{% endif %}
            href={{ site.lang|prepend:'"/'|append:'/summit/"'}}>{% translate pages.summit %}</a></li>
+    <li><a {% if page.url contains '/blog/' or page.url contains '/20' %}class="current"{% endif %}
+           href={{ site.lang|prepend:'"/'|append:'/blog/"'}}>{% translate pages.blog %}</a></li>
     <li><a {% if page.url contains '/join/' %}class="current"{% endif %}
            href={{ site.lang|prepend:'"/'|append:'/join/"'}}>{% translate pages.join %}</a></li>
 {% endif %}

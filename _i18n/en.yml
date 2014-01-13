@@ -4,11 +4,13 @@ pages:
     directory: "Directory"
     summit: "Summit"
     join: "Join"
+    blog: "Blog"
 titles:
     home: "Home"
     about: "About the Initiative"
     directory: "Directory of Member Companies"
     summit: "Annual Summit"
+    blog: "Blog Index"
     join: "How to Join the Initiative"
     notfound: "Not Found (404)"
 oci: "The Open Company Initiative"

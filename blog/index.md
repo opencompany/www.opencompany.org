@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Index
+title: titles.blog
 ---
 
 <div class="rss-link">

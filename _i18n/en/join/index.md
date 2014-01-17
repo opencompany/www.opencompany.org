@@ -11,7 +11,7 @@ element in how you create value, you are an open company, full stop.  You don't
 need our permission or advice. That said, if you would like to join with
 like-minded companies in the Open Company Initiative, please email [Tim
 Cook](mailto:tim@saxifrageschool.org) (or submit a [pull
-request](https://github.com/opencompany/opencompany.github.io/blob/master/_data/directory.yml))
+request](https://github.com/opencompany/www.opencompany.org/blob/master/_data/directory.yml))
 with the following information:
 
   1. Your name and title;

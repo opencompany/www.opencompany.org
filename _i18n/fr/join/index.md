@@ -11,7 +11,7 @@ Si votre entreprise maximise la transparence et l'ouverture opérationnelle en d
 besoin de notre permission ou des conseils. Cela dit, si vous souhaitez vous joindre à
 entreprises ayant des vues similaires de l'Initiative d'Entreprise Libre, envoyez un email (en englais) à [Tim
 Cook] (mailto: tim@saxifrageschool.org) (ou présenter une [pull
-request] (https://github.com/opencompany/opencompany.github.io/blob/master/_data/directory.yml))
+request] (https://github.com/opencompany/www.opencompany.org/blob/master/_data/directory.yml))
 avec les informations suivantes:
 
   1. Votre nom et titre;

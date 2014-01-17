@@ -28,3 +28,9 @@
   description: "Well-made goods manufactured and sold transparently." 
   join_date: 2013-12-27
   logo: toc.png
+
+- name: Lincoln Loop
+  url: http://lincolnloop.com
+  description: "A full service web development and design studio."
+  join_date: 2013-01-13
+  logo: lincoln-loop.svg

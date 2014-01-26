@@ -6,7 +6,7 @@ learn from one another and further the [vision](/about/) of the Initiative.
 
 The 2014 Summit will be held March 22 in San Francisco. We are planning the
 event [using
-GitHub](https://github.com/opencompany/opencompany.github.io/issues/5).
+GitHub](https://github.com/opencompany/www.opencompany.org/issues/5).
 
 
 ### 2013

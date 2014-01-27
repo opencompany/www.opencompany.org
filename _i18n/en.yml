@@ -1,3 +1,6 @@
+oci: "The Open Company Initiative"
+pledge: "We who belong to the Open Company Initiative pledge to maximize operational transparency and openness as a defining element in how we create value."
+directory_header: "Member Companies"
 pages:
     home: "Home"
     about: "About"
@@ -13,6 +16,5 @@ titles:
     blog: "Blog Index"
     join: "How to Join the Initiative"
     notfound: "Not Found (404)"
-oci: "The Open Company Initiative"
-pledge: "We who belong to the Open Company Initiative pledge to maximize operational transparency and openness as a defining element in how we create value."
-directory_header: "Member Companies"
+    blog20130113: "Gittip founder starts Open Company Initiative"
+    blog20130127: "How your company can benefit from being open: Lessons from Balanced"

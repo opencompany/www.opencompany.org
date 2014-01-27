@@ -1,3 +1,6 @@
+oci: "l'Initiative d'Entreprise Libre"
+pledge: "Celui qui adhère à l'Initiative d'Entreprise Libre s'engage à maximiser la transparence et l'ouverture opérationnelle comme un élément déterminant dans la façon de créer de la valeur."
+directory_header: "Entreprises adhérentes"
 pages:
     home: "Accueil"
     about: "A propos"
@@ -13,6 +16,5 @@ titles:
     blog: "Index du Blog"
     join: "Comment joindre l'initiative"
     notfound: "Introuvable (404)"
-oci: "l'Initiative d'Entreprise Libre"
-pledge: "Celui qui adhère à l'Initiative d'Entreprise Libre s'engage à maximiser la transparence et l'ouverture opérationnelle comme un élément déterminant dans la façon de créer de la valeur."
-directory_header: "Entreprises adhérentes"
+    blog20130113: "Gittip founder starts Open Company Initiative"
+    blog20130127: "How your company can benefit from being open: Lessons from Balanced"

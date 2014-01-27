@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gittip founder starts Open Company Initiative
+title: titles.blog20130113
 byline: 
 ---
 

@@ -37,7 +37,7 @@ learn from one another and further our vision.
 The OCI is housed at [The Saxifrage School](http://www.saxifrageschool.org/), a
 higher education laboratory working to lower costs, foster transparency,
 re-think the campus, and reconcile theory and practice. The Initiative is
-funded [on Gittip](https://www.gittip.com/opencompanybiz), and we communicate
+funded [on Gittip](https://www.gittip.com/OpenCompany/), and we communicate
 primarily [using
 GitHub](https://github.com/opencompany/opencompany.github.io/issues). Some of
 us can be found on the initiative's IRC channel on freenode: #opencompanybiz.

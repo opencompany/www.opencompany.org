@@ -46,10 +46,10 @@ us can be found on the initiative's IRC channel on freenode: #opencompanybiz.
 ### Funding
 
 The OCI is funded by pay-what-you-want membership dues, <a
-href="https://www.gittip.com/opencompanybiz/">via Gittip</a>.
+href="https://www.gittip.com/OpenCompany/">via Gittip</a>.
 
 <div class="gittip-widget">
-    <script data-gittip-username="opencompanybiz" src="//gttp.co/v1.js"></script>
+    <script data-gittip-username="OpenCompany" src="//gttp.co/v1.js"></script>
 </div>
 
 

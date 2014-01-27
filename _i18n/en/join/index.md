@@ -30,9 +30,9 @@ with the following information:
 ### Dues
 
 Membership dues are pay what you want, <a
-href="https://www.gittip.com/opencompanybiz/">via Gittip</a>.
+href="https://www.gittip.com/OpenCompany/">via Gittip</a>.
 
 <div class="gittip-widget">
-    <script data-gittip-username="opencompanybiz" src="//gttp.co/v1.js"></script>
+    <script data-gittip-username="OpenCompany" src="//gttp.co/v1.js"></script>
 </div>
 

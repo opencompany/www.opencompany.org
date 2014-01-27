@@ -1,0 +1,313 @@
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body { height: 100%; }
+
+body {
+    font: 20pt Georgia, serif;
+    background: #FFF;
+    color: #000;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font: normal 100% "League Gothic", sans-serif;
+    color: #339966;
+}
+
+a         { color: #339966; }
+a:hover   { color: #8CD6B1; }
+a:visited { color: #999966; }
+
+h1 {
+    font-size: 48pt;
+    line-height: 48pt;
+    margin: 48pt 0 18pt;
+}
+
+h2 {
+    font-size: 36pt;
+    line-height: 36pt;
+    margin: 0 0 16pt;
+}
+h2 a {
+    color: #339966 ! important;
+    text-decoration: none;
+}
+
+h3 {
+    font-size: 30pt;
+    line-height: 30pt;
+    margin: 30pt 0 14pt;
+}
+
+p {
+    text-indent: 2em;
+    line-height: 170%;
+}
+.gittip-widget {
+    margin: 1em 2em;
+}
+
+blockquote {
+    line-height: 150%;
+    font-style: italic;
+    margin: 24pt 0;
+    padding: 0 0 0 12pt;
+    border-left: 6pt solid black;
+}
+blockquote span {
+    font-style: normal;
+}
+blockquote > p:nth-child(1) {
+    text-indent: 0;
+}
+
+ul, ol {
+    margin: 0;
+    padding: 1em 0 1em 3.5em;
+}
+
+strong, b {
+    color: #339966;
+    font-weight: normal;
+    font-style: italic;
+}
+
+.clear {
+    clear: both;
+}
+
+
+/*****************************************************************************/
+/*
+/* Layout
+/*
+/*****************************************************************************/
+
+.header, .page, .homepage, .footer {
+    max-width: 64pc;
+    margin: 0 auto;
+    padding: 0 2%;
+    clear: both;
+}
+.header {
+    background: #FFF;
+}
+.header h1 {
+    margin: 0;
+    float: left;
+}
+.header h1 a {
+    display: inline-block;
+    font: normal 24pt "League Gothic", sans-serif;
+    text-decoration: none;
+    color: black;
+    padding-top: 9pt;
+}
+.header h1 a img {
+    position: relative;
+    top: 9pt;
+}
+.header h1 a span {
+}
+.header h1 a:hover {
+    color: #339966;
+}
+.content {
+    border: 6pt solid #000;
+    border-style: solid none;
+    padding: 36pt 0;
+    clear: both;
+}
+.footer .contact {
+    padding: 6pt 0;
+}
+.footer {
+    font-size: 14pt;
+    line-height: 14pt;
+}
+
+.nav {
+    text-align: right;
+    padding: 12pt 0;
+    font: normal 24pt "League Gothic", sans-serif;
+}
+.nav li {
+    display: inline-block;
+}
+.nav a {
+    display: block;
+    padding: 6pt 12pt;
+    color: #000;
+    border: 3pt solid #FFF;
+    text-decoration: none;
+}
+.nav a.current {
+    background: #EEE;
+}
+.nav a:hover {
+    color: #339966;
+    border-color: #339966;
+}
+
+
+/*****************************************************************************/
+/*
+/* Homepage
+/*
+/*****************************************************************************/
+
+.homepage {
+    text-align: center;
+    margin: 24pt auto;
+}
+.homepage .teaser {
+    line-height: 150%;
+}
+.homepage .nav {
+    text-align: center;
+}
+
+
+/*****************************************************************************/
+/*
+/* Pages
+/*
+/*****************************************************************************/
+
+.page {
+    margin: 24pt auto;
+}
+.next-steps li {
+    display: inline-block;
+    list-style: none;
+}
+
+
+/*****************************************************************************/
+/*
+/* Directory
+/*
+/*****************************************************************************/
+
+.directory {
+    margin: 0;
+    padding: 0;
+}
+.directory li {
+    list-style: none;
+    float: left;
+    width: 10pc;
+    margin-right: 2pc;
+    text-align: center;
+}
+.directory a {
+    display: block;
+    padding: 1pc;
+    color: #000;
+    text-decoration: none;
+    border: 3pt solid #FFF;
+}
+.directory a:hover {
+    border-color: #339966;
+}
+.directory a:hover .name {
+    color: #339966;
+}
+.directory .logo {
+    min-height: 8pc;
+    vertical-align: center;
+    position: relative;
+}
+.directory .logo img {
+    width: 100%;
+    /* http://coding.smashingmagazine.com/2013/08/09/absolute-horizontal-vertical-centering-css/ */
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.directory span {
+    display: block;
+}
+.directory .description {
+    font-style: italic;
+    font-size: 11pt;
+}
+
+
+/*****************************************************************************/
+/*
+/* Blog
+/*
+/*****************************************************************************/
+
+.blog-index {
+    margin: 0;
+    padding: 0;
+}
+.blog-index li {
+    list-style: none;
+    margin: 0 0 12pt;
+    padding: 0;
+}
+.blog-index li span {
+    color: #999;
+    font-family: monospace;
+    font-size: smaller;
+}
+
+.rss-link {
+    margin: 12pt 0;
+    padding: 0;
+    font-size: smaller;
+}
+
+.blog .meta {
+    color: #999;
+    font-family: monospace;
+    font-size: smaller;
+    margin: 24pt 0;
+}
+
+.blog .feed-back {
+    text-align: right;
+    font-style: italic;
+    margin: 36pt 0 0;
+    padding: 0;
+    text-indent: 0;
+}
+
+/*****************************************************************************/
+/*
+/* Responsiveness
+/*
+/*****************************************************************************/
+
+@media (max-width: 950px) {
+    .header h1 {
+        float: none;
+        text-align: center;
+    }
+    .nav {
+        text-align: center;
+    }
+}
+
+@media (max-width: 580px) {
+    .nav li {
+        float: none;
+        width: 100%;
+    }
+}

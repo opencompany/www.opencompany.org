@@ -281,6 +281,14 @@ strong, b {
     margin: 24pt 0;
 }
 
+.blog .feed-back {
+    text-align: right;
+    font-style: italic;
+    margin: 36pt 0 0;
+    padding: 0;
+    text-indent: 0;
+}
+
 /*****************************************************************************/
 /*
 /* Responsiveness

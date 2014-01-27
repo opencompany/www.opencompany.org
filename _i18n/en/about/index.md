@@ -40,7 +40,7 @@ re-think the campus, and reconcile theory and practice. The Initiative is
 funded [on Gittip](https://www.gittip.com/OpenCompany/), and we communicate
 primarily [using
 GitHub](https://github.com/opencompany/www.opencompany.org/issues). Some of
-us can be found on the initiative's IRC channel on freenode: #opencompanybiz.
+us can be found on the initiative's IRC channel on freenode: ##opencompany.
 
 
 ### Funding

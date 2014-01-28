@@ -7,7 +7,7 @@ byline: Bronwen Clune
 Matin Tamizi wants to shift the culture of how companies do things. “It’s time
 they open up and share more,” Tamizi says. “As a society in general we’ll end
 up moving forward a lot faster.” It’s something he’s doing with his own company
-after realising with some increasing frustration that the software industry was
+after realizing with some increasing frustration that the software industry was
 continually trying to figure out solved problems over again and not moving
 forward as a result. 
 

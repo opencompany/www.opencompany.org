@@ -39,7 +39,7 @@ at the idea that somebody could talk about their product publicly and criticize
 it. Some of the best companies learned that even if they didn’t have the best
 product, they would use that public criticism to engage with customers and use
 that as feedback for their product.” As there’s no platform to “review” payment
-companies, Balanced Payments settled on using Github as its public forum. 
+companies, Balanced Payments settled on using GitHub as its public forum. 
 
 An important distinction is that open companies are not just about open
 software. They’re open with their ideas, which can be a fundamentally
@@ -76,7 +76,7 @@ It’s about building a community.
 
 Tamizi notes there other benefits too, including the ability to move faster
 (there are no NDAs, and contractors can access and familiarize themselves with
-all the code on Github). There’s also the [media
+all the code on GitHub). There’s also the [media
 attention](http://www.fastcolabs.com/3008944/open-company/why-i-made-my-payments-startup-an-open-company)
 that operating as an open company can bring.
 

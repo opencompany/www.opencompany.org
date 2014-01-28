@@ -83,16 +83,17 @@ that operating as an open company can bring.
 So, what’s the limit on openness?
 
 At the moment Tamizi declines to give me any kind of stats in terms of where
-they are in revenue and how many people are using the platform daily. When
-pressed as to why, he said, “We just don’t.” It seems like an odd distinction
-given their openness on everything else. There are of course obvious
-protections around processes to guard against fraud, being a payment company
-after all.
+they are in revenue and how many people are using the platform daily (though
+they have been public with [other
+stats](http://techcrunch.com/2014/01/16/balanced/)). When pressed as to why, he
+said, “We just don’t.” It seems like an odd distinction given their openness on
+everything else. There are of course obvious protections around processes to
+guard against fraud, being a payment company after all.
 
-Whether they’ll share revenue and company statistics down the line remains to
-be seen. After all, in Tamizi’s own words: “Continually challenging why we
-shouldn’t share something is part of our process. It’s part of what being open
-is about.” 
+Whether they’ll share revenue and sensitive company statistics down the line
+remains to be seen. After all, in Tamizi’s own words: “Continually challenging
+why we shouldn’t share something is part of our process. It’s part of what
+being open is about.” 
 
 <div class="feed-back">
     Feedback? <a href="https://twitter.com/bronwen">@bronwen on Twitter</a>.

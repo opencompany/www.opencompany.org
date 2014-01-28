@@ -95,6 +95,9 @@ remains to be seen. After all, in Tamizi’s own words: “Continually challengi
 why we shouldn’t share something is part of our process. It’s part of what
 being open is about.” 
 
-<div class="feed-back">
-    Feedback? <a href="https://twitter.com/bronwen">@bronwen on Twitter</a>.
-</div>
+### Feedback?
+
+The subjects were <a href="https://twitter.com/matin">@matin</a> and <a
+href="https://twitter.com/balanced">@balanced</a>.<br>
+The author was <a href="https://twitter.com/bronwen">@bronwen</a>.<br>
+The editor was <a href="https://twitter.com/bronwen">@whit537</a>.

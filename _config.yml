@@ -1,3 +1,5 @@
-markdown: redcarpet
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
 url: http://www.opencompany.org/
 languages: ["en", "fr"]

@@ -21,6 +21,15 @@ layout: default
 
         {{ content }}
 
+        {% if page.byline %}
+        <h3>Legal</h3>
+
+        <div>
+            &copy; {{ page.date | date: "%Y" }} {{ page.byline }}, licensed under
+            <a href="http://creativecommons.org/licenses/by/4.0/deed.{{ site.lang }}">CC BY</a>.
+        </div>
+        {% endif %}
+
     </div>
 
 </div>

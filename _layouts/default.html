@@ -12,7 +12,7 @@
 
         <!-- new styles -->
         <link rel="icon" type="image/png" href="/img/favicon.png">
-        <link rel="stylesheet" href="/css/main.005.css">
+        <link rel="stylesheet" href="/css/main.006.css">
         <link rel="stylesheet" href="/fonts/leaguegothic.css">
 
         <link rel="alternate" type="application/atom+xml" title="Atom"
@@ -37,6 +37,15 @@
         </div>
 
         <div class="footer">
+            <ul class="nav language">
+                {% for language in site.languages %}
+                  {% if language == "en" %}
+                  <li><a href="/">en</a></li>
+                  {% else %}
+                  <li><a href="/{{ language }}">{{ language }}</a></li>
+                  {% endif %}
+                {% endfor %}
+            </ul>
             {% include nav.html %}
         </div>
 

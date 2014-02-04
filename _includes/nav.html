@@ -26,16 +26,4 @@
     <li><a {% if page.url contains '/join/' %}class="current"{% endif %}
            href={{ site.lang|prepend:'"/'|append:'/join/"'}}>{% translate pages.join %}</a></li>
 {% endif %}
-    <li>
-      <select ONCHANGE="location = this.options[this.selectedIndex].value;">
-        <option>Select a language</option>
-        {% for language in site.languages %}
-          {% if language == "en" %}
-    <option value="{{ site.baseurl_root }}">{{ language }}</option>
-      {% else %}
-    <option value="/{{ language }}">{{ language }}</option>
-      {% endif %}
-        {% endfor %}
-      </select>
-    </li>
 </ul>

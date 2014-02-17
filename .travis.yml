@@ -1,7 +1,7 @@
 language: ruby
 env:
   global:
-    - secure: "AAAAB3NzaC1yc2EAAAADAQABAAAAgQD7TPrbXg1nN7JI7veuhj/KWBP3r8i5YdaU8phrUm+Qyo2N+exCP45XbB2MxwBHgSsZK5XI4H74+9mKZURqVuRS5ntjunoOz3HxlfW2tckIJ26vfzJ/P2CZy3cH2PF2MyHIR/oBm3IWm9ZxvFCjTX/GYIBMxH+8Q6UVfHqRu5FQnQ="
+    - secure: "jA/a4ASQfDnXmyag08A+vrZo7FHZs5aTs4Zc1rpeBEz0TXLzea5Z67TbU2U1n7prCmfKTuQhyZ1bcSN0kMTS8JJ/xxh5K9jutigT3GbG4dDrpgz6qqk6yedWfGRJVEgNaadS+1gnR7P3hBJ6/6i0GDCU+KlP8JvDYzJfXkKlH7Y="
 rvm:
   - 2.1.0
 script: bundle exec jekyll build

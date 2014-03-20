@@ -2,11 +2,10 @@ The Open Company Summit takes place in March, and represents the best
 opportunity for the [members](/directory/) of the Open Company Initiative to
 learn from one another and further the [vision](/about/) of the Initiative.
 
-### 2014
 
-The 2014 Summit will be held March 22 in San Francisco. We are planning the
-event [using
-GitHub](https://github.com/opencompany/www.opencompany.org/issues/5).
+### [2014](2014)
+
+The [2014 Summit](2014) will be held March 22 in San Francisco.
 
 
 ### 2013

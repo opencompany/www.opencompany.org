@@ -5,18 +5,18 @@ url: http://www.opencompany.org/
 languages: ["en", "fr"]
 # Here is the configuration for sharing buttons.
 sharing :
-  provider : ["tweet", "plusone", "linkedin"]
+  provider : ["tweet", "plusone", "linkedin", "like"]
 # provider : ["tweet", "hn", "plusone", "linkedin", "like"]
   twitter :
     size :
     via :
     count :
-#  facebook :
+  facebook :
 #    appid : 205602882797935
-#    layout : button_count
-#    font :
-#    faces : false
-#    width : 90
+    layout : button_count
+    font :
+    faces : false
+    width : 90
   googleplus :
     size : medium
     width :

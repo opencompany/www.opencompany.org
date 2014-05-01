@@ -15,5 +15,5 @@ Company Initiative.
 style="width: 100%; height: 200px; margin: 0 0 32pt; border: 1px solid black;"
 frameborder="0"></iframe>
 
-You can RSVP and participate in planning [via
+Discussion and planning happened [via
 GitHub](https://github.com/opencompany/www.opencompany.org/issues/5).

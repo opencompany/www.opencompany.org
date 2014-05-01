@@ -5,7 +5,9 @@ learn from one another and further the [vision](/about/) of the Initiative.
 
 ### [2014](2014)
 
-The [2014 Summit](2014) will be held March 22 in San Francisco.
+The [2014 Summit](2014) was held on March 22 in San Francisco. A
+poorly-recorded video of the event was [archived for
+posterity.](https://www.youtube.com/watch?v=e4E7kNQSBeY)
 
 
 ### 2013

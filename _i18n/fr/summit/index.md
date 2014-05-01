@@ -4,8 +4,7 @@ apprendre des uns des autres et de diffuser la [vision](/about/) de l'initiative
 
 ### 2014
 
-Le Sommet de 2014 aura lieu le 22 Mars à San Francisco. Nous prévoyons l'événement
-via [GitHub] (https://github.com/opencompany/www.opencompany.org/issues/5).
+Le [Sommet de 2014](2014) a eu lieu le 22 Mars à San Francisco.
 
 
 ### 2013

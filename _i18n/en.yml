@@ -1,6 +1,7 @@
 oci: "The Open Company Initiative"
 pledge: "We who belong to the Open Company Initiative pledge to maximize operational transparency and openness as a defining element in how we create value."
 directory_header: "Member Companies"
+feed_title: "The Open Company Initiative blog"
 pages:
     home: "Home"
     about: "About"

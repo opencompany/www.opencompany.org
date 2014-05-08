@@ -40,3 +40,9 @@
   description: "Empowering developers everywhere"
   join_date: 2013-02-06
   slug: bevry
+
+- name: Beeminder
+  url: https://www.beeminder.com
+  description: Goal-tracking with teeth
+  join_date: 2014-05-07
+  slug: beeminder

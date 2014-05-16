@@ -6,23 +6,23 @@
 
 </blockquote>
 
-If your company maximizes operational transparency and openness as a defining
-element in how you create value, you are an open company, full stop.  You don't
-need our permission or advice. That said, if you would like to join with
-like-minded companies in the Open Company Initiative, please email [Tim
-Cook](mailto:tim@saxifrageschool.org) (or submit a [pull
-request](https://github.com/opencompany/www.opencompany.org/blob/master/_data/directory.yml))
-with the following information:
+Jeżeli twoje przedsiębiorstwo stara się zwiększać swoją przejrzystość i otwartość
+jako część dzięki której tworzycie autentyczną wartość, to jesteście otwartym
+przedsiębiorstwem, koniec kropka. Nie potrzebujesz naszego pozwolenia czy porady by być
+otwartym przedsiębiorstwem. Jeżeli jednak chciałbym dołączyć do przedsiębiorstw
+które są w Inicjatywie Otwartego Przedsiębiorstwa, wyślij email [Tim Cook](mailto:tim@saxifrageschool.org)
+(lub wyślij [pull requesta](https://github.com/opencompany/www.opencompany.org/blob/master/_data/directory.yml))
+z tymi informacjami:
 
   1. Twoje imię, nazwisko i tytuł;
   1. Nazwę twojego przedsiębiorstwa;
-  1. Link do twojej A link to your homepage, or a landing page about openness;
-  1. Logo w formacie SVG A logo file in SVG format;
-  1. Jedno linijkowy opis twojej firmy;
-  1. Jeden konkretny przykład jak wypełniacie zobowiązania OCI.
+  1. Link do twojej strong o waszej otwartości;
+  1. Logo w formacie SVG;
+  1. Krótki opis twojej firmy;
+  1. Konkretny przykład jak wypełniacie zobowiązania OCI.
 
 
-### Our Pledge
+### Nasza deklaracja
 
 {% translate pledge %}
 

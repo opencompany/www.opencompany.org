@@ -1,22 +1,21 @@
-The Open Company Initiative (OCI) jest grupą przedsiębiorstw przywiązanych do
-wartości zwiększania przejrzystości przedsiębiorstwa i jego otwartości jako
-elementu dzięki któremu tworzymy wartość.
+Inicjatywa Otwartych Przedsiębiorstw (eng. The Open Company Initative OCI) jest
+grupą firm przywiązanych do wartości zwiększania przejrzystości i otwartości jako
+części dzięki której tworzymy autentyczną wartość.
 
 
 ### Nasza wizja
 
-Zaufanie jest podstawą gospodarki. Prawo ustawia minimum bazowe wiarygodności i status qo dla przedsiębiorstwo jest działać blisko tego minimum. Jak o wiele więcej mogła by być nasza gospodarka jeżeli 
-Trust is the foundation of the economy. The law establishes a minimum baseline
-of trustworthiness, and the status quo for companies is to operate near this
-baseline. How much more productive would our economy be if instead we worked
-together to maximize trust?
+Zaufanie jest podstawą gospodarki. Prawo ustawia minimum bazowe zaufania i
+statusem quo dla przedsiębiorstw jest działać blisko tego minimum. Co jezeli
+jednak nasza gospodarka by mogła rosnąć jeżeli pracowalibyśmy razem by budować
+wspólnie zaufanie?
 
-We envision a world in which companies are generally trustworthy. We believe
-that the winning companies of the future will be those that proactively
-maximize trust, going above and beyond the letter of the law to cultivate
-relationships of trust with customers, stakeholders, and society as a whole. We
-believe that genuine, unforced corporate transparency and openness is the best
-way to earn trust.
+Wyobrażamy sobie świat gdzie przedsiębiostwa są przede wszystkim godne zaufania.
+Wierzymy, że firmami przyszłości bedą te które aktywnie starały się budować
+zaufanie, idąc ponad przeciętną i dalej niż litera prawa by kultywować relacje
+zaufania z klientami, udziałowców, i społeczeństwem jako całością. Wierzmy, że
+szczere, nie wymuszone wprowadzanie przejrzystości i otwartości jest najlepszą
+metodą by zdobywać zaufanie.
 
 
 ### Nasze zobowiązania
@@ -24,24 +23,23 @@ way to earn trust.
 {% translate pledge %}
 
 
-### Programs and Operations
+### Programy i działalność
 
-The OCI maintains a [directory of companies](/directory/) that have taken our
-pledge. However, the OCI is intentionally not a certifying body. Instead, we
-invite our members to define for themselves how they will fulfill their pledge.
-We invite innovation and the sharing of both successes and failures. We trust
-the market and the court of public opinion to be our judge.
+OCI prowadzi [katalog przedsiębiorstw](/directory/) które that have taken our
+pledge.  Jednak, OCI jest organizacją ideową a nie ciałem certyfikującym.
+Dlatego zapraszamy naszych członków do zdefiniowana w jaki sposób chcą wypełnić
+swoją deklarację. Zapraszamy innowacje i do podzielenia się sukcesami i porażkami.
+Ufamy, że rynek i opinia publiczna będą naszymi sędziami.
 
-The OCI holds an [annual summit](/summit/), bringing together our members to
-learn from one another and further our vision.
+OCI organizuje [coroczny szczyt](/summit/) zbierający wszystkich członków razem
+by uczyli się od siebie nawzajem i dalej rozwijać naszą wizję.
 
-The OCI is housed at [The Saxifrage School](http://www.saxifrageschool.org/), a
-higher education laboratory working to lower costs, foster transparency,
-re-think the campus, and reconcile theory and practice. The Initiative is
-funded [on Gittip](https://www.gittip.com/OpenCompany/), and we communicate
-primarily [using
-GitHub](https://github.com/opencompany/www.opencompany.org/issues). Some of
-us can be found on the initiative's IRC channel on freenode: ##opencompany.
+OCI mieści się w [The Saxifrage School](http://www.saxifrageschool.org/),
+laboratorium szkolnictwa wyższego działającego nad zmniejszeniem kosztów,
+sprzyjaniu przejrzystości, przemyśleniu kampusu i pogodzeniu teori z praktyką.
+Inicjatywa została założona [przez Gittip](https://www.gittip.com/OpenCompany/),
+i nasze dyskusje prowadzimy przedewszystkim [używając GitHub](https://github.com/opencompany/www.opencompany.org/issues). 
+Niektórych z nas można znaleźć na kanale IRC na freenode: ##opencompany
 
 
 ### Finansowanie

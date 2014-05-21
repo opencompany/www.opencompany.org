@@ -2,10 +2,10 @@ markdown: rdiscount
 rdiscount:
   extensions: [smart]
 url: http://www.opencompany.org/
-languages: ["en", "fr"]
+languages: ["en", "fr", "pl"]
 # Here is the configuration for sharing buttons.
 sharing :
-  provider : ["tweet", "plusone", "linkedin", "like"]
+  provider : ["like", "tweet", "plusone", "linkedin"]
 # provider : ["tweet", "hn", "plusone", "linkedin", "like"]
   twitter :
     size :

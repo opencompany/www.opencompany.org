@@ -25,17 +25,17 @@ przejrzystości i otwartości działania, jest najlepszą metodą by zdobywać z
 
 ### Programy i działalność
 
-IOP prowadzi [katalog przedsiębiorstw](/directory/) , mających nasze poparcie.
-Jednak IOP jest organizacją ideową, a nie wydawcą certyfikatów.
+OCI prowadzi [katalog przedsiębiorstw](/directory/) , mających nasze poparcie.
+Jednak OCI jest organizacją ideową, a nie wydawcą certyfikatów.
 
 Dlatego też zachęcamy naszych członków, aby sami zdefiniowali, w jaki sposób
 chcą wypełnić swoją deklarację. Zapraszamy do dzielenia się swoimi sukcesami i
 porażkami. Wierzymy, że rynek i opinia publiczna będą naszymi sędziami.
 
-IOP organizuje [coroczny szczyt](/summit/), zbierający wszystkich członków,
+OCI organizuje [coroczny szczyt](/summit/), zbierający wszystkich członków,
 aby nawzajem się uczyć i rozwijać naszą wizję przedsiębiorstwa.
 
-IOP mieści się w [The Saxifrage School](http://www.saxifrageschool.org/),
+OCI mieści się w [The Saxifrage School](http://www.saxifrageschool.org/),
 laboratorium szkolnictwa wyższego, działającego nad zmniejszeniem kosztów,
 sprzyjaniu przejrzystości, reorganizacją kampusu i pogodzeniu teorii z praktyką.
 
@@ -45,7 +45,7 @@ Niektórych z nas można znaleźć na kanale IRC, na freenode: ##opencompany
 
 ### Finansowanie
 
-IOP jest finansowane w modelu „płać-ile-chcesz składki członkowskiej”, <a
+OCI jest finansowane w modelu „płać-ile-chcesz składki członkowskiej”, <a
 href="https://www.gittip.com/OpenCompany/">przez Gittip</a>.
 
 <div class="gittip-widget">

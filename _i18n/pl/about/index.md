@@ -1,21 +1,21 @@
-Inicjatywa Otwartych Przedsiębiorstw (eng. The Open Company Initative OCI) jest
-grupą firm przywiązanych do wartości zwiększania przejrzystości i otwartości jako
-części dzięki której tworzymy autentyczną wartość.
+Inicjatywa Otwartych Przedsiębiorstw (ang. The Open Company Initative - OCI) to grupa, zrzeszająca firmy dążące do zwiększania przejrzystości swojego działania oraz otwartości, dzięki którym tworzy się autentyczną wartość.
 
 
 ### Nasza wizja
 
-Zaufanie jest podstawą gospodarki. Prawo ustawia minimum bazowe zaufania i
-statusem quo dla przedsiębiorstw jest działać blisko tego minimum. Co jezeli
-jednak nasza gospodarka by mogła rosnąć jeżeli pracowalibyśmy razem by budować
-wspólnie zaufanie?
+Zaufanie jest podstawą gospodarki. Prawo stawia firmom bazowe minimum zaufania i
+statusem quo dla przedsiębiorstw jest działanie blisko niego. Jak jednak nasza
+gospodarka mogłaby rosnąć, jeżeli pracowalibyśmy razem nad budowaniem wspólnego
+zaufania?
 
-Wyobrażamy sobie świat gdzie przedsiębiostwa są przede wszystkim godne zaufania.
-Wierzymy, że firmami przyszłości bedą te które aktywnie starały się budować
-zaufanie, idąc ponad przeciętną i dalej niż litera prawa by kultywować relacje
-zaufania z klientami, udziałowców, i społeczeństwem jako całością. Wierzmy, że
-szczere, nie wymuszone wprowadzanie przejrzystości i otwartości jest najlepszą
-metodą by zdobywać zaufanie.
+Wyobrażamy sobie świat, w którym przedsiębiorstwa są przede wszystkim godne
+zaufania i to stawiają sobie za cel.
+
+Wierzymy, że firmami przyszłości będą te aktywnie starające się budować
+zaufanie, wychodząc ponad przeciętną i dalej niż litera prawa. Ich celem będzie
+tworzenie relacji zaufania z klientami, udziałowcami i społeczeństwem jako
+całością. Jesteśmy przekonani, że szczere, niewymuszone wprowadzanie
+przejrzystości i otwartości działania, jest najlepszą metodą by zdobywać zaufanie.
 
 
 ### Nasze zobowiązania
@@ -25,26 +25,27 @@ metodą by zdobywać zaufanie.
 
 ### Programy i działalność
 
-OCI prowadzi [katalog przedsiębiorstw](/directory/) które that have taken our
-pledge.  Jednak, OCI jest organizacją ideową a nie ciałem certyfikującym.
-Dlatego zapraszamy naszych członków do zdefiniowana w jaki sposób chcą wypełnić
-swoją deklarację. Zapraszamy innowacje i do podzielenia się sukcesami i porażkami.
-Ufamy, że rynek i opinia publiczna będą naszymi sędziami.
+IOP prowadzi [katalog przedsiębiorstw](/directory/) , mających nasze poparcie.
+Jednak IOP jest organizacją ideową, a nie wydawcą certyfikatów.
 
-OCI organizuje [coroczny szczyt](/summit/) zbierający wszystkich członków razem
-by uczyli się od siebie nawzajem i dalej rozwijać naszą wizję.
+Dlatego też zachęcamy naszych członków, aby sami zdefiniowali, w jaki sposób
+chcą wypełnić swoją deklarację. Zapraszamy do dzielenia się swoimi sukcesami i
+porażkami. Wierzymy, że rynek i opinia publiczna będą naszymi sędziami.
 
-OCI mieści się w [The Saxifrage School](http://www.saxifrageschool.org/),
-laboratorium szkolnictwa wyższego działającego nad zmniejszeniem kosztów,
-sprzyjaniu przejrzystości, przemyśleniu kampusu i pogodzeniu teori z praktyką.
-Inicjatywa została założona [przez Gittip](https://www.gittip.com/OpenCompany/),
-i nasze dyskusje prowadzimy przedewszystkim [używając GitHub](https://github.com/opencompany/www.opencompany.org/issues). 
-Niektórych z nas można znaleźć na kanale IRC na freenode: ##opencompany
+IOP organizuje [coroczny szczyt](/summit/), zbierający wszystkich członków,
+aby nawzajem się uczyć i rozwijać naszą wizję przedsiębiorstwa.
 
+IOP mieści się w [The Saxifrage School](http://www.saxifrageschool.org/),
+laboratorium szkolnictwa wyższego, działającego nad zmniejszeniem kosztów,
+sprzyjaniu przejrzystości, reorganizacją kampusu i pogodzeniu teorii z praktyką.
+
+Inicjatywa została założona [przez Gittip](https://www.gittip.com/OpenCompany/)
+i nasze dyskusje prowadzimy używając przede wszystkim [GitHub](https://github.com/opencompany/www.opencompany.org/issues).
+Niektórych z nas można znaleźć na kanale IRC, na freenode: ##opencompany
 
 ### Finansowanie
 
-OCI jest finansowane w modelu płać-ile-chcesz składki członkowskiej, <a
+IOP jest finansowane w modelu „płać-ile-chcesz składki członkowskiej”, <a
 href="https://www.gittip.com/OpenCompany/">przez Gittip</a>.
 
 <div class="gittip-widget">

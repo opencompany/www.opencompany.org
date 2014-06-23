@@ -1,17 +1,18 @@
 <blockquote>
 
-    &ldquo;Świat potrzebuje ludzi którzy widzą rzeczy które potrzebują być
-    zrobine i je zaczynają robić, bez pozwolenia czy rady.
-    Po prostu to robią.&rdquo; <span>&mdash; Wendell Berry</span>
+    &ldquo;Świat potrzebuje ludzi, którzy widzą rzeczy, które potrzebują być
+    zrobione i je zaczynają robić, bez pozwolenia czy rady.
+    Po prostu to robią..&rdquo; <span>&mdash; Wendell Berry</span>
 
 </blockquote>
 
-Jeżeli twoje przedsiębiorstwo stara się zwiększać swoją przejrzystość i otwartość
-jako część dzięki której tworzycie autentyczną wartość, to jesteście otwartym
-przedsiębiorstwem, koniec kropka. Nie potrzebujesz naszego pozwolenia czy porady by być
-otwartym przedsiębiorstwem. Jeżeli jednak chciałbym dołączyć do przedsiębiorstw
-które są w Inicjatywie Otwartego Przedsiębiorstwa, wyślij email [Tim Cook](mailto:tim@saxifrageschool.org)
-(lub wyślij [pull requesta](https://github.com/opencompany/www.opencompany.org/blob/master/_data/directory.yml))
+Jeżeli Twoje przedsiębiorstwo stara się zwiększać swoją przejrzystość i
+otwartość w działaniu, dzięki czemu staracie się tworzyć autentyczną wartość,
+to jesteście otwartym przedsiębiorstwem - koniec i kropka. Nie potrzebujesz
+naszego pozwolenia ani porad, aby tak działać.
+Jeżeli jednak chciałbyś dołączyć do Inicjatywy Otwartego Przedsiębiorstwa,
+wyślij e-mail [Tim Cook](mailto:tim@saxifrageschool.org)
+lub [pull requesta](https://github.com/opencompany/www.opencompany.org/blob/master/_data/directory.yml))
 z tymi informacjami:
 
   1. Twoje imię, nazwisko i tytuł;

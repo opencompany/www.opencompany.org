@@ -1,6 +1,6 @@
 ---
 layout: page
-title: titles.home
+title: titles.about
 ---
 
 {% translate_file about/index.md %}

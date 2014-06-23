@@ -3,10 +3,10 @@ Inicjatywa Otwartych Przedsiębiorstw (ang. The Open Company Initative - OCI) to
 
 ### Nasza wizja
 
-Zaufanie jest podstawą gospodarki. Prawo stawia firmom bazowe minimum zaufania i
-statusem quo dla przedsiębiorstw jest działanie blisko niego. Jak jednak nasza
-gospodarka mogłaby rosnąć, jeżeli pracowalibyśmy razem nad budowaniem wspólnego
-zaufania?
+Zaufanie jest podstawą gospodarki. Prawo ustanawia dla przedsiębiorstw podstawowe
+minumum zaufania, a statusem quo dla przedsiębiorstw jest działanie jak najbliżej
+niego. Jak jednak nasza gospodarka mogłaby rosnąć, jeżeli pracowalibyśmy razem
+nad budowaniem wspólnego zaufania?
 
 Wyobrażamy sobie świat, w którym przedsiębiorstwa są przede wszystkim godne
 zaufania i to stawiają sobie za cel.

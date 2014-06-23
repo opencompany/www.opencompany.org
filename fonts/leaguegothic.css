@@ -1,11 +1,8 @@
 /* Regular */
 @font-face {
     font-family: 'League Gothic';
-    src: url('leaguegothic-regular-webfont.eot');
-    src: url('leaguegothic-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('leaguegothic-regular-webfont.woff') format('woff'),
-         url('leaguegothic-regular-webfont.ttf') format('truetype'),
-         url('leaguegothic-regular-webfont.svg#league_gothicregular') format('svg');
+    src: url("LeagueGothic-Regular.otf") format("opentype");
     font-weight: normal;
     font-style: normal;
+
 }

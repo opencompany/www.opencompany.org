@@ -13,7 +13,8 @@
         <!-- new styles -->
         <link rel="icon" type="image/png" href="/img/favicon.png">
 
-
+        <link rel="stylesheet" href="/css/main.007.css">
+        
         <link rel="alternate" type="application/atom+xml" title="Atom"
               href="{{ site.url }}atom.xml">
 
@@ -49,12 +50,9 @@
         </div>
         <script>
           var cb = function() {
-            var main = document.createElement('link'); main.rel = 'stylesheet';
-            main.href = "/css/main.007.css";
             var font = document.createElement('link'); font.rel = 'stylesheet';
             font.href = "/fonts/leaguegothic.css";
             var h = document.getElementsByTagName('head')[0];
-            h.parentNode.insertBefore(main, h);
             h.parentNode.insertBefore(font, h);
           };
           var raf = requestAnimationFrame || mozRequestAnimationFrame ||

@@ -41,6 +41,8 @@ funded [on Gittip](https://www.gittip.com/OpenCompany/), and we communicate
 primarily [using
 GitHub](https://github.com/opencompany/www.opencompany.org/issues). Some of
 us can be found on the initiative's IRC channel on freenode: ##opencompany.
+We are using Google Analytics to get stats from our site. Our statistics are
+publicly available [here](/stats/).
 
 
 ### Funding
@@ -62,4 +64,3 @@ href="https://www.gittip.com/OpenCompany/">via Gittip</a>.
   - <a href="/resources/whitepaper.pdf">A Whitepaper on Open Enterprise</a>
   - <a href="https://medium.com/the-saxifrage-school/1cc89b9de873">An Open School?</a>
   - <a href="http://theopencompany.net/pages/about-us">The Open [Products] Company</a>
-

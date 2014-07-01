@@ -12,8 +12,7 @@
 
         <!-- new styles -->
         <link rel="icon" type="image/png" href="/img/favicon.png">
-        <link rel="stylesheet" href="/css/main.007.css">
-        <link rel="stylesheet" href="/fonts/leaguegothic.css">
+
 
         <link rel="alternate" type="application/atom+xml" title="Atom"
               href="{{ site.url }}atom.xml">
@@ -48,7 +47,21 @@
             </ul>
             {% include nav.html %}
         </div>
-
+        <script>
+          var cb = function() {
+            var main = document.createElement('link'); main.rel = 'stylesheet';
+            main.href = "/css/main.007.css";
+            var font = document.createElement('link'); font.rel = 'stylesheet';
+            font.href = "/fonts/leaguegothic.css";
+            var h = document.getElementsByTagName('head')[0];
+            h.parentNode.insertBefore(main, h);
+            h.parentNode.insertBefore(font, h);
+          };
+          var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+              webkitRequestAnimationFrame || msRequestAnimationFrame;
+          if (raf) raf(cb);
+          else window.addEventListener('load', cb);
+        </script>
         <script>
           (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
           (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

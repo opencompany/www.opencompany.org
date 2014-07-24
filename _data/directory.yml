@@ -46,3 +46,9 @@
   description: Goal-tracking with teeth
   join_date: 2014-05-07
   slug: beeminder
+
+- name: Buffer
+  url: https://bufferapp.com
+  description: "Buffer is the easiest way to publish on social media"
+  join_date: 2013-12-20
+  slug: buffer

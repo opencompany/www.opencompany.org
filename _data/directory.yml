@@ -52,3 +52,9 @@
   description: "Buffer is the easiest way to publish on social media"
   join_date: 2013-12-20
   slug: buffer
+
+- name: Neighbor.ly
+  url: https://neighbor.ly/
+  description: "Neighbor.ly is the Community Investment Marketplace"
+  join_date: 2014-08-15
+  slug: neighborly

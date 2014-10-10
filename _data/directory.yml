@@ -1,8 +1,8 @@
-- name: Gittip
-  url: https://www.gittip.com/
+- name: Gratipay
+  url: https://gratipay.com/
   description: Give money every week to people and teams you believe in.
   join_date: 2013-12-20
-  slug: gittip
+  slug: gratipay
 
 - name: Balanced Payments
   url: https://www.balancedpayments.com/open

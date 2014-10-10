@@ -34,13 +34,13 @@ the market and the court of public opinion to be our judge.
 The OCI holds an [annual summit](/summit/), bringing together our members to
 learn from one another and further our vision.
 
-The OCI is housed at [The Saxifrage School](http://www.saxifrageschool.org/), a
-higher education laboratory working to lower costs, foster transparency,
-re-think the campus, and reconcile theory and practice. The Initiative is
-funded [on Gittip](https://www.gittip.com/OpenCompany/), and we communicate
-primarily [using
-GitHub](https://github.com/opencompany/www.opencompany.org/issues). Some of
-us can be found on the initiative's IRC channel on freenode: ##opencompany.
+The OCI is fiscally sponsored by [The Saxifrage
+School](http://www.saxifrageschool.org/), a higher education laboratory working
+to lower costs, foster transparency, re-think the campus, and reconcile theory
+and practice. The Initiative is funded [on
+Gratipay](https://gratipay.com/OpenCompany/), and we communicate primarily
+[using GitHub](https://github.com/opencompany/www.opencompany.org/issues). Some
+of us can be found on the initiative's IRC channel on freenode: ##opencompany.
 We are using Google Analytics to get stats from our site. Our statistics are
 publicly available [here](/stats/).
 
@@ -48,10 +48,10 @@ publicly available [here](/stats/).
 ### Funding
 
 The OCI is funded by pay-what-you-want membership dues, <a
-href="https://www.gittip.com/OpenCompany/">via Gittip</a>.
+href="https://gratipay.com/OpenCompany/">via Gratipay</a>.
 
-<div class="gittip-widget">
-    <script data-gittip-username="OpenCompany" src="//gttp.co/v1.js"></script>
+<div class="gratipay-widget">
+    <script data-gratipay-username="OpenCompany" src="//grtp.co/v1.js"></script>
 </div>
 
 
@@ -64,3 +64,4 @@ href="https://www.gittip.com/OpenCompany/">via Gittip</a>.
   - <a href="/resources/whitepaper.pdf">A Whitepaper on Open Enterprise</a>
   - <a href="https://medium.com/the-saxifrage-school/1cc89b9de873">An Open School?</a>
   - <a href="http://theopencompany.net/pages/about-us">The Open [Products] Company</a>
+

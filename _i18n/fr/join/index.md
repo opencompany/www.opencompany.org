@@ -30,8 +30,8 @@ avec les informations suivantes:
 ### Cotisations
 
 Les cotisations sont libre, payer ce que vous voulez, <a
-href="https://www.gittip.com/OpenCompany/">via Gittip</a>.
+href="https://gratipay.com/OpenCompany/">via Gratipay</a>.
 
-<div class="gittip-widget">
-    <script data-gittip-username="OpenCompany" src="//gttp.co/v1.js"></script>
+<div class="gratipay-widget">
+    <script data-gratipay-username="OpenCompany" src="//grtp.co/v1.js"></script>
 </div>

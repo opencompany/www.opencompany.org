@@ -34,13 +34,13 @@ the market and the court of public opinion to be our judge.
 The OCI holds an [annual summit](/summit/), bringing together our members to
 learn from one another and further our vision.
 
-The OCI is fiscally sponsored by [The Saxifrage
-School](http://www.saxifrageschool.org/), a higher education laboratory working
-to lower costs, foster transparency, re-think the campus, and reconcile theory
-and practice. The Initiative is funded [on
-Gratipay](https://gratipay.com/OpenCompany/), and we communicate primarily
-[using GitHub](https://github.com/opencompany/www.opencompany.org/issues). Some
-of us can be found on the initiative's IRC channel on freenode: ##opencompany.
+The OCI is housed at [The Saxifrage School](http://www.saxifrageschool.org/), a
+higher education laboratory working to lower costs, foster transparency,
+re-think the campus, and reconcile theory and practice. The Initiative is
+funded [on Gratipay](https://gratipay.com/OpenCompany/), and we communicate
+primarily [using
+GitHub](https://github.com/opencompany/www.opencompany.org/issues). Some of
+us can be found on the initiative's IRC channel on freenode: ##opencompany.
 We are using Google Analytics to get stats from our site. Our statistics are
 publicly available [here](/stats/).
 

@@ -31,8 +31,8 @@ z tymi informacjami:
 ### Składki
 
 Składki członkowskie są w modelu płać-ile-chcesz, <a
-href="https://www.gittip.com/OpenCompany/">przez Gittip</a>.
+href="https://gratipay.com/OpenCompany/">przez Gratipay</a>.
 
-<div class="gittip-widget">
-    <script data-gittip-username="OpenCompany" src="//gttp.co/v1.js"></script>
+<div class="gratipay-widget">
+    <script data-gratipay-username="OpenCompany" src="//grtp.co/v1.js"></script>
 </div>

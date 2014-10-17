@@ -58,3 +58,9 @@
   description: "Neighbor.ly is the Community Investment Marketplace"
   join_date: 2014-08-15
   slug: neighborly
+
+- name: Neocities
+  url: https://neocities.org
+  description: "Make the internet fun again. Create your own free web site."
+  join_date: 2014-10-17
+  slug: neocities

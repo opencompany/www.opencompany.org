@@ -1,5 +1,5 @@
-The Open Company Initiative (OCI) is a group of companies committed to creating
-value through openness.
+The Open Company Initiative (OCI) is a group of companies committed to openness
+as a defining element in how we create value.
 
 
 ### Our Vision

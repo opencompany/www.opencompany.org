@@ -1,21 +1,19 @@
-The Open Company Initiative (OCI) is a group of companies committed to
-maximizing operational transparency and openness as a defining element in how
-we create value.
+The Open Company Initiative (OCI) is a group of companies committed to openness
+as a defining element in how we create value.
 
 
 ### Our Vision
 
 Trust is the foundation of the economy. The law establishes a minimum baseline
 of trustworthiness, and the status quo for companies is to operate near this
-baseline. How much more productive would our economy be if instead we worked
-together to maximize trust?
+baseline. What if we tried to *maximize* trust?
 
 We envision a world in which companies are generally trustworthy. We believe
 that the winning companies of the future will be those that proactively
 maximize trust, going above and beyond the letter of the law to cultivate
 relationships of trust with customers, stakeholders, and society as a whole. We
-believe that genuine, unforced corporate transparency and openness is the best
-way to earn trust.
+believe that genuine, unforced corporate openness is the best way to earn
+trust.
 
 
 ### Our Pledge

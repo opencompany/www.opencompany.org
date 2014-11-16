@@ -1,21 +1,17 @@
-L'initiative d'entreprise libre est un ensemble de sociétés engagées à
-maximiser la transparence et l'ouverture opérationnelle comme un élément déterminant dans la façon dont
-nous créons de la valeur.
+L'initiative d'entreprise libre est un ensemble de sociétés qui s'engagent à faire de l'ouverture un élément déterminant dans la façon de créer de la valeur.
 
 
 ### Notre Vision
 
 La confiance est au fondement de l'économie. La loi établit une base de confiance,
-et les entreprises fonctionnent à cette base par défaut.
-Notre économie ne serait-elle pas plus productive, si nous travaillions
-ensemble pour maximiser la confiance ?
+et les entreprises fonctionnent avec cette base par défaut.
+Pourquoi ne pas essayer de *maximiser* la confiance.
 
 Nous envisageons un monde dans lequel les entreprises sont généralement dignes de confiance. Nous croyons
 que les entreprises qui vont réussir dans l'avenir seront celles qui
 maximiseront la confiance pro-activement, allant au-delà des prérequis par la loi, et cultiveront
 des relations de confiance avec clients, intervenants et la société dans son ensemble. Nous
-pensons qu'une ouverture et transparence non forcée est le meilleur
-moyen de générer de la confiance .
+pensons que l'ouverture est le meilleur moyen de générer de la confiance .
 
 ### Notre engagement
 

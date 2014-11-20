@@ -64,3 +64,9 @@
   description: "Make the internet fun again. Create your own free web site."
   join_date: 2014-10-17
   slug: neocities
+  
+- name: Read the Docs
+  url: https://readthedocs.com
+  description: "Documentation Developers Love"
+  join_date: 2014-11-19
+  slug: read-the-docs

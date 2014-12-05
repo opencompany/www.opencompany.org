@@ -64,3 +64,9 @@
   description: "Make the internet fun again. Create your own free web site."
   join_date: 2014-10-17
   slug: neocities
+  
+- name: Technical Machine
+  url: https://tessel.io/
+  description: Creating the Open Web of hardware.
+  join_date: 2014-12-4
+  slug: technical

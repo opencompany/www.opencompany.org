@@ -70,3 +70,9 @@
   description: "Documentation Developers Love"
   join_date: 2014-11-19
   slug: read-the-docs
+
+- name: Technical Machine
+  url: https://tessel.io/
+  description: Creating the Open Web of hardware.
+  join_date: 2014-12-4
+  slug: technical

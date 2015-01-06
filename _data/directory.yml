@@ -76,3 +76,23 @@
   description: Creating the Open Web of hardware.
   join_date: 2014-12-4
   slug: technical
+  
+- name: CommitChange
+  url: https://www.commitchange.com/
+  description: We build beautiful fundraising tools for nonprofits.
+  join_date: 2014-9-2
+  slug: commit-change
+  
+- name: FarmBot
+  url: http://go.farmbot.it/
+  description: Building open-source hardware and software for small-scale automated food production.
+  join_date: 2014-9-23
+  slug: farm-bot
+  
+- name: Surevine
+  url: https://www.surevine.com/
+  description: Surevine helps “join-up” government by delivering secure collaborative environments for central government and other public sector organizations.
+  join_date: 2014-10-22
+  slug: sure-vine 
+  
+  

@@ -6,6 +6,7 @@ branches:
 before_script:
   - echo -e "Host github.com\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
 after_success:
+  - mkdir .travis
   - cat $DEPLOY_KEY > .travis/deploy_key.pem
   - chmod 600 .travis/deploy_key.pem # this key should have push 
   - ssh-add .travis/deploy_key.pem

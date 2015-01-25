@@ -1,7 +1,4 @@
 language: ruby
-env:
-  global:
-    - secure: "jA/a4ASQfDnXmyag08A+vrZo7FHZs5aTs4Zc1rpeBEz0TXLzea5Z67TbU2U1n7prCmfKTuQhyZ1bcSN0kMTS8JJ/xxh5K9jutigT3GbG4dDrpgz6qqk6yedWfGRJVEgNaadS+1gnR7P3hBJ6/6i0GDCU+KlP8JvDYzJfXkKlH7Y="
 script: bundle exec jekyll build
 branches:
   only:
@@ -9,17 +6,21 @@ branches:
 before_script:
   - echo -e "Host github.com\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
 after_success:
+  - cat $DEPLOY_KEY > .travis/deploy_key.pem
+  - chmod 600 .travis/deploy_key.pem # this key should have push 
+  - ssh-add .travis/deploy_key.pem
   - rm -rf _deploy
   - mkdir _deploy
   - cd _deploy
-  - git clone https://github.com/opencompany/opencompany.github.io.git --branch=master .
+  - git clone git@github.com:opencompany/opencompany.github.io.git --branch=master .
   - rsync -avzh ../_site/ ./
   - git add .
   - git config --global user.name "$GIT_NAME"
   - git config --global user.email "$GIT_EMAIL"
   - git commit -m "New site version. Committed by Travis-CI."
-  - git config credential.helper "store --file=.git/credentials"
-  - echo "https://${GH_TOKEN}:@github.com" > .git/credentials
+
+#  - git config credential.helper "store --file=.git/credentials"
+#  - echo "https://${GH_TOKEN}:@github.com" > .git/credentials
   - git push origin master
 notifications:
   irc:

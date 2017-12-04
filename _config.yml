@@ -2,8 +2,7 @@ markdown: kramdown
 rdiscount:
   extensions: [smart]
 url: http://www.opencompany.org/
-# Plugins
-gems:
+plugins:
   - jekyll-multiple-languages-plugin
 languages: ["en", "fr", "pl"]
 # Here is the configuration for sharing buttons.

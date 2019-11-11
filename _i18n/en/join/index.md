@@ -29,10 +29,4 @@ with the following information:
 
 ### Dues
 
-Membership dues are pay what you want, <a
-href="https://gratipay.com/OpenCompany/">via Gratipay</a>.
-
-<div class="gratipay-widget">
-    <script data-gratipay-username="OpenCompany" src="//grtp.co/v1.js"></script>
-</div>
-
+Membership dues are pay what you want via [Liberapay](https://liberapay.com/opencompany/).

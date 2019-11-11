@@ -1,7 +1,7 @@
 <blockquote>
 
     &ldquo;Le monde a besoin de gens qui voient quelque chose qui doit
-    être fait et commencent à le faire, sans autorisation ou avis. Ils 
+    être fait et commencent à le faire, sans autorisation ou avis. Ils
     commencent juste à faire.&rdquo; <span>&mdash; Wendell Berry</span>
 
 </blockquote>
@@ -29,9 +29,4 @@ avec les informations suivantes:
 
 ### Cotisations
 
-Les cotisations sont libre, payer ce que vous voulez, <a
-href="https://gratipay.com/OpenCompany/">via Gratipay</a>.
-
-<div class="gratipay-widget">
-    <script data-gratipay-username="OpenCompany" src="//grtp.co/v1.js"></script>
-</div>
+Les cotisations sont libre, payer ce que vous voulez via [Liberapay](https://liberapay.com/opencompany/).

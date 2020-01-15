@@ -89,4 +89,10 @@
   join_date: 2014-10-22
   slug: surevine
 
+- name: Salalem
+  url: http://www.salalem.com/
+  description: An enterprise mobile and web platform to train and certify employees.
+  join_date: 2017-07-30
+  slug: salalem
+
 

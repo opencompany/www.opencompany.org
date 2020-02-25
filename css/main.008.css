@@ -244,6 +244,12 @@ strong, b {
 .directory span {
     display: block;
 }
+.directory .name {
+    font-size: 14pt;
+}
+.directory .name.smaller {
+    font-size: 13pt;
+}
 .directory .description {
     font-style: italic;
     font-size: 11pt;

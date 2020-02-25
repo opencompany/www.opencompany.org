@@ -1,6 +1,7 @@
 oci: "Inicjatywa Otwartego Przedsiębiorstwa"
 pledge: "My, należący do Inicjatywy Otwartego Przedsiębiorstwa, zobowiązujemy się zwiększać przejrzystość i otwartość swojego działania, dzięki którym tworzymy autentyczną wartość."
 directory_header: "Przedsiębiorstwa członkowskie"
+former_directory_header: "Former Member Companies"
 feed_title: "Blog Inicjatywy Otwartego Przedsiębiorstwa"
 pages:
     home: "Home"

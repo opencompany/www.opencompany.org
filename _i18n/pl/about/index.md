@@ -39,7 +39,7 @@ OCI mieści się w [The Saxifrage School](http://www.saxifrageschool.org/),
 laboratorium szkolnictwa wyższego, działającego nad zmniejszeniem kosztów,
 sprzyjaniu przejrzystości, reorganizacją kampusu i pogodzeniu teorii z praktyką.
 
-Inicjatywa została założona przez Gratipay (dzisiaj [Liberapay](https://liberapay.com/))
+Inicjatywa została założona przez [Liberapay](https://liberapay.com/)
 i nasze dyskusje prowadzimy używając przede wszystkim [GitHub](https://github.com/opencompany/www.opencompany.org/issues).
 Niektórych z nas można znaleźć na kanale IRC, na freenode: ##opencompany
 

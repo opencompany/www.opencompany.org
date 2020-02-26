@@ -1,0 +1,30 @@
+- name: Gratipay
+  url: https://gratipay.com/
+  description: Give money every week to people and teams you believe in.
+  join_date: 2013-12-20
+  slug: gratipay
+
+- name: Balanced Payments
+  url: https://www.balancedpayments.com/open
+  description: Payments for Marketplaces & Crowdfunding
+  join_date: 2013-12-20
+  slug: balanced
+
+- name: Saxifrage School
+  url: http://www.saxifrageschool.org/
+  description: A higher ed. lab working to lower costs, foster transparency,
+    re-think the campus, and reconcile theory with practice.
+  join_date: 2013-12-20
+  slug: saxifrage
+
+- name: The Open Company
+  url: http://theopencompany.net
+  description: "Well-made goods manufactured and sold transparently."
+  join_date: 2013-12-27
+  slug: toc
+
+- name: FarmBot
+  url: http://go.farmbot.it/
+  description: Building open-source hardware and software for small-scale automated food production.
+  join_date: 2014-9-23
+  slug: farmbot

@@ -1,6 +1,7 @@
 oci: "l'Initiative d'Entreprise Libre"
 pledge: "Celui qui adhère à l'Initiative d'Entreprise Libre s'engage faire de l'ouverture un élément définissant de sa façon de créer de la valeur."
 directory_header: "Entreprises adhérentes"
+former_directory_header: "Former Member Companies"
 feed_title: "Le blog de l'Initiative d'Entreprise Libre"
 pages:
     home: "Accueil"

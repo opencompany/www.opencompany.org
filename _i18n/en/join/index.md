@@ -34,5 +34,4 @@ Membership dues are pay what you want via [Liberapay](https://liberapay.com/open
 
 ### Chat
 
-We maintain an [Discord Server](https://discord.gg/MDffbaQ) where our members, or any interested parties can join to discuss open companies, the initative, or their specific initatives. 
-
+We maintain a [Discord Server](https://discord.gg/MDffbaQ) where our members, or any interested parties can join to discuss open companies, the initiative, or their specific initiatives. 

@@ -38,7 +38,7 @@ re-think the campus, and reconcile theory and practice. The Initiative is
 funded on [Liberapay](https://liberapay.com/), and we communicate
 primarily [using
 GitHub](https://github.com/opencompany/www.opencompany.org/issues). Some of
-us can be found on the initiative's IRC channel on freenode: ##opencompany.
+us can be found on the initiative's [Discord server](/join/#chat).
 We are using Google Analytics to get stats from our site. Our statistics are
 publicly available [here](/stats/).
 
